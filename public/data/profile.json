@@ -1,0 +1,85 @@
+{
+    "name": "Archico Sembiring",
+    "tagline": "Full-Stack Developer | UI/UX Enthusiast | Problem Solver",
+    "profile_picture": "/images/profile.jpg",
+    "about": {
+        "summary": "Saya adalah seorang Full-Stack Developer yang berpengalaman membangun aplikasi berbasis web, mobile, dan desktop. Memiliki ketertarikan pada pengembangan aplikasi dengan pendekatan gamification, integrasi API, dan desain UI/UX yang human-centered.",
+        "location": "Medan, Indonesia",
+        "email": "archico@email.com",
+        "phone": "+62 812-3456-7890",
+        "website": "https://archicosembiring.dev",
+        "social_links": {
+        "linkedin": "https://linkedin.com/in/archicosembiring",
+        "github": "https://github.com/archicosembiring",
+        "instagram": "https://instagram.com/archico.design",
+        "dribbble": "https://dribbble.com/archico"
+        }
+    },
+    "skills": [
+        {
+        "category": "Frontend",
+        "items": ["React.js", "Next.js", "Vue.js", "Tailwind CSS", "TypeScript"]
+        },
+        {
+        "category": "Backend",
+        "items": ["Node.js", "Express.js", "Laravel", "Firebase", "MySQL", "PostgreSQL"]
+        },
+        {
+        "category": "Mobile",
+        "items": ["Flutter", "Kotlin", "Jetpack Compose"]
+        },
+        {
+        "category": "Tools & Others",
+        "items": ["Git", "Figma", "Docker", "Postman", "Jest"]
+        }
+    ],
+    "experience": [
+        {
+        "title": "Software Engineer Intern",
+        "company": "PT Indonesia AirAsia",
+        "period": "Jun 2024 - Aug 2024",
+        "description": "Mengembangkan aplikasi Airmaster untuk Flight Operation Department, mengintegrasikan tiga sistem menjadi satu aplikasi berbasis Flutter dengan backend Firebase."
+        },
+        {
+        "title": "Freelance Web & Mobile Developer",
+        "company": "Self-Employed",
+        "period": "2020 - Sekarang",
+        "description": "Mengerjakan berbagai proyek untuk klien, termasuk aplikasi e-learning, sistem manajemen data, dan aplikasi berbasis microservices."
+        }
+    ],
+    "projects": [
+        {
+        "name": "Levelearn",
+        "description": "Aplikasi e-learning berbasis gamification untuk meningkatkan keterlibatan pengguna.",
+        "tech_stack": ["Flutter", "Firebase", "REST API"],
+        "image": "/images/levelearn.png",
+        "link": "https://levelearn.com"
+        },
+        {
+        "name": "Airmaster",
+        "description": "Aplikasi integrasi untuk Flight Operation Department di AirAsia.",
+        "tech_stack": ["Flutter", "Firebase"],
+        "image": "/images/airmaster.png",
+        "link": "#"
+        }
+    ],
+    "education": [
+        {
+        "degree": "Sarjana Informatika",
+        "institution": "Institut Teknologi Del",
+        "year": "2020 - 2024"
+        }
+    ],
+    "certifications": [
+        {
+        "name": "Bangkit Academy 2024",
+        "issuer": "Google, Gojek, Tokopedia, Traveloka",
+        "year": 2024
+        },
+        {
+        "name": "Dicoding: Belajar Membuat Aplikasi Android untuk Pemula",
+        "issuer": "Dicoding Indonesia",
+        "year": 2023
+        }
+    ]
+}

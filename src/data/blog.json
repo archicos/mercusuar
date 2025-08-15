@@ -1,0 +1,5 @@
+[
+    { "id": "b1", "title": "Belajar Golang untuk Backend", "date": "2025-08-10", "image": "/images/blog1.svg", "location": "Jakarta", "period": "2025", "excerpt": "Kenapa Go cocok untuk backend modern.", "content": "Golang menawarkan performa tinggi, concurrency yang elegan, dan ekosistem yang matang untuk backend modern." },
+    { "id": "b2", "title": "Human-Centered Gamification", "date": "2025-07-21", "image": "/images/blog2.svg", "location": "Medan", "period": "2025", "excerpt": "Menghubungkan preferensi pengguna dengan elemen game.", "content": "Pendekatan gamifikasi berbasis preferensi meningkatkan engagement dan kepuasan pengguna." },
+    { "id": "b3", "title": "Membuat Portfolio Modern dengan Next.js", "date": "2025-06-30", "image": "/images/blog3.svg", "location": "Jakarta", "period": "2025", "excerpt": "Langkah-langkah praktis membangun portfolio.", "content": "Manfaatkan App Router, Tailwind, dan SSG untuk membuat portfolio cepat dan responsif." }
+]

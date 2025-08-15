@@ -1,0 +1,34 @@
+{
+    "projects": [
+        {
+        "id": 1,
+        "title": "Website Company Profile",
+        "description": "Website profil perusahaan dengan desain modern.",
+        "image": "/images/project1.jpg"
+        },
+        {
+        "id": 2,
+        "title": "E-Commerce App",
+        "description": "Aplikasi belanja online dengan integrasi pembayaran.",
+        "image": "/images/project2.jpg"
+        }
+    ],
+    "gallery": [
+        { "id": 1, "image": "/images/gallery1.jpg", "caption": "UI Design 1" },
+        { "id": 2, "image": "/images/gallery2.jpg", "caption": "UI Design 2" }
+    ],
+    "blogs": [
+        {
+        "id": 1,
+        "title": "Tips Membangun Portfolio Developer",
+        "date": "2025-08-15",
+        "content": "Portfolio adalah representasi karya Anda..."
+        },
+        {
+        "id": 2,
+        "title": "Mengapa Tailwind Sangat Efisien",
+        "date": "2025-08-14",
+        "content": "Tailwind membuat styling menjadi cepat..."
+        }
+    ]
+}

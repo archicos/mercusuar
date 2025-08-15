@@ -1,0 +1,46 @@
+{
+    "name": "Archico Sembiring",
+    "title": "Software Engineer • Fullstack Developer",
+    "bio": "Saya membangun aplikasi web, mobile, dan desktop. Fokus pada backend, integrasi sistem, dan arsitektur yang rapi. Saat ini belajar Golang untuk memperkuat kompetensi backend.",
+    "location": "Jakarta, Indonesia",
+    "email": "archico@example.com",
+    "phone": "+62 812-3456-7890",
+    "socials": [
+        { "label": "GitHub", "icon": "github", "url": "https://github.com/archico" },
+        { "label": "LinkedIn", "icon": "linkedin", "url": "https://linkedin.com/in/archico" },
+        { "label": "Instagram", "icon": "instagram", "url": "https://instagram.com/archico" },
+        { "label": "Email", "icon": "mail", "url": "mailto:archico@example.com" }
+    ],
+    "education": [
+        {
+        "degree": "S1 Informatika",
+        "institution": "Institut Teknologi Del",
+        "period": "2020 — 2024",
+        "details": "Fokus pada pengembangan perangkat lunak & HCI."
+        }
+    ],
+    "experience": [
+        {
+        "role": "Software Engineer Intern",
+        "company": "PT Indonesia AirAsia (OCC)",
+        "period": "Juni 2024 — Agustus 2024",
+        "details": "Bangun aplikasi Airmaster (TS-1, Training Card, EFB)."
+        },
+        {
+        "role": "Freelance Developer",
+        "company": "Self-Employed",
+        "period": "2021 — Sekarang",
+        "details": "Berbagai proyek web & mobile untuk klien lokal."
+        }
+    ],
+    "skills": [
+        { "name": "Golang", "level": 70 },
+        { "name": "Laravel", "level": 85 },
+        { "name": "Node/Express", "level": 80 },
+        { "name": "React / Next.js", "level": 75 },
+        { "name": "Flutter", "level": 80 },
+        { "name": "Kotlin (Android)", "level": 65 },
+        { "name": "PostgreSQL/MySQL", "level": 80 },
+        { "name": "REST API", "level": 85 }
+    ]
+}

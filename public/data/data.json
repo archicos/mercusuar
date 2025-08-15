@@ -1,0 +1,99 @@
+{
+    "profile": {
+        "name": "Johan Pratama",
+        "headline": "Full-Stack Developer & Creative Technologist",
+        "bio": "Saya adalah seorang software developer dengan antusiasme tinggi dalam menciptakan solusi digital yang efisien, intuitif, dan menarik secara visual. Dengan pengalaman dalam teknologi web dan mobile, saya bersemangat untuk terus belajar dan berkolaborasi dalam proyek-proyek inovatif.",
+        "socials": {
+        "github": "https://github.com/johanpratama",
+        "linkedin": "https://linkedin.com/in/johanpratama",
+        "twitter": "https://twitter.com/johanpratama",
+        "instagram": "https://instagram.com/johanpratama"
+        },
+        "skills": ["Next.js", "TypeScript", "React", "Node.js", "Tailwind CSS", "Figma", "Prisma", "PostgreSQL", "Docker"],
+        "education": [
+        {
+            "institution": "Universitas Teknologi Digital",
+            "degree": "S1 Teknik Informatika",
+            "period": "2020 - 2024"
+        }
+        ],
+        "experience": [
+        {
+            "company": "PT Inovasi Digital",
+            "role": "Frontend Developer (Intern)",
+            "period": "Jun 2023 - Des 2023",
+            "description": "Mengembangkan dan memelihara antarmuka pengguna untuk aplikasi web e-commerce, berkolaborasi dengan tim desain dan backend."
+        }
+        ]
+    },
+    "projects": [
+        {
+        "id": 1,
+        "title": "Platform E-Commerce Modern",
+        "image": "/images/projects/project-1.jpg",
+        "short_description": "Platform belanja online dengan fitur lengkap dan desain responsif.",
+        "period": "Jan 2024 - Mar 2024",
+        "role": "Full-Stack Developer",
+        "description": "Membangun platform e-commerce dari awal menggunakan Next.js untuk frontend dan Node.js (Express) untuk backend. Mengintegrasikan gateway pembayaran dan sistem manajemen inventaris.",
+        "techStack": ["Next.js", "TypeScript", "Tailwind CSS", "Stripe", "PostgreSQL"],
+        "skills": ["API Design", "State Management", "UI/UX Implementation"],
+        "links": {
+            "github": "https://github.com",
+            "live": "https://your-project-live-url.com"
+        }
+        },
+        {
+        "id": 2,
+        "title": "Aplikasi Manajemen Tugas",
+        "image": "/images/projects/project-2.jpg",
+        "short_description": "Aplikasi task manager kolaboratif berbasis web.",
+        "period": "Apr 2024 - Mei 2024",
+        "role": "Frontend Developer",
+        "description": "Merancang dan mengimplementasikan antarmuka pengguna yang interaktif untuk aplikasi manajemen tugas. Fokus pada pengalaman pengguna yang seamless dengan fitur drag-and-drop.",
+        "techStack": ["React", "Redux Toolkit", "Framer Motion", "Firebase"],
+        "skills": ["Real-time Database", "Component-Based Architecture"],
+        "links": {
+            "github": "https://github.com",
+            "live": null
+        }
+        }
+    ],
+    "gallery": [
+        {
+        "id": 1,
+        "title": "Senja di Pelabuhan",
+        "image": "/images/gallery/gallery-1.jpg",
+        "location": "Sunda Kelapa, Jakarta",
+        "date": "2025-07-20",
+        "camera": "Sony A7 III, 50mm f/1.8",
+        "description": "Menangkap momen matahari terbenam yang hangat di antara kapal-kapal phinisi yang berlabuh."
+        },
+        {
+        "id": 2,
+        "title": "Hiruk Pikuk Kota",
+        "image": "/images/gallery/gallery-2.jpg",
+        "location": "Bundaran HI, Jakarta",
+        "date": "2025-06-15",
+        "camera": "Fujifilm X-T4, 35mm f/2",
+        "description": "Jejak cahaya kendaraan di malam hari yang menggambarkan dinamika kota metropolitan yang tidak pernah tidur."
+        }
+    ],
+    "blogs": [
+        {
+        "id": 1,
+        "title": "Mengapa Next.js 14 adalah Game-Changer untuk Web Development",
+        "image": "/images/blog/blog-1.jpg",
+        "date": "2025-08-10",
+        "read_time": "7 min read",
+        "content": "Next.js 14 memperkenalkan Server Actions, Partial Prerendering, dan berbagai optimisasi yang mengubah cara kita membangun aplikasi web. Dalam tulisan ini, kita akan bedah fitur-fitur utamanya dan mengapa ini sangat penting bagi developer modern..."
+        },
+        {
+        "id": 2,
+        "title": "Seni Bercerita Melalui Fotografi Jalanan",
+        "image": "/images/blog/blog-2.jpg",
+        "date": "2025-08-01",
+        "read_time": "5 min read",
+        "content": "Fotografi jalanan bukan hanya tentang memotret orang di jalan. Ini adalah seni mengamati, mengantisipasi momen, dan menangkap cerita dalam satu frame. Artikel ini membahas beberapa tips komposisi dan pendekatan untuk memulai..."
+        }
+    ]
+}

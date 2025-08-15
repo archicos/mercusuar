@@ -1,0 +1,62 @@
+[
+    {
+        "id": "airmaster",
+        "title": "Airmaster – Flight Operation Suite",
+        "period": "Juni 2024 — Agustus 2024",
+        "role": "Fullstack Developer (Intern)",
+        "image": "/images/project1.svg",
+        "short": "Integrasi TS-1, Training Card, dan EFB untuk OCC AirAsia.",
+        "description": "Aplikasi internal untuk Flight Operation Department AirAsia Indonesia. Mengintegrasikan modul TS-1 (penilaian pilot training), Training Card (progress training), dan Electronic Flight Bag (manajemen dokumen).",
+        "tech": ["Flutter", "Firebase", "Firestore", "Cloud Functions", "Node.js"],
+        "skills": ["System Integration", "Auth", "Data Modeling"],
+        "links": { "github": "https://github.com/yourname/airmaster", "demo": null }
+    },
+    {
+        "id": "expense-tracker",
+        "title": "Expense Tracker – GetX",
+        "period": "Agustus 2024",
+        "role": "Mobile Developer",
+        "image": "/images/project2.svg",
+        "short": "Aplikasi catatan keuangan dengan kategori dinamis.",
+        "description": "Aplikasi pelacak pemasukan dan pengeluaran dengan autentikasi, kategori, dan laporan sederhana. Dibangun dengan Flutter + GetX.",
+        "tech": ["Flutter", "GetX", "Firebase Auth"],
+        "skills": ["State Management", "UX Writing"],
+        "links": { "github": "https://github.com/yourname/expense-tracker", "demo": null }
+    },
+    {
+        "id": "portfolio-v1",
+        "title": "Portfolio v1 – Next.js",
+        "period": "2025",
+        "role": "Fullstack Developer",
+        "image": "/images/project3.svg",
+        "short": "Versi pertama portfolio dengan SSG + JSON.",
+        "description": "Website portfolio statis dengan Next.js (App Router) dan Tailwind. Data diambil dari file JSON, siap di-upgrade ke backend Golang.",
+        "tech": ["Next.js", "TailwindCSS", "TypeScript"],
+        "skills": ["SSG", "Responsive Design"],
+        "links": { "github": "https://github.com/yourname/portfolio", "demo": "https://your-portfolio-demo.com" }
+    },
+    {
+        "id": "microservices-poc",
+        "title": "Microservices PoC",
+        "period": "2024",
+        "role": "Backend Engineer",
+        "image": "/images/project4.svg",
+        "short": "Proof-of-Concept arsitektur microservices.",
+        "description": "Eksperimen microservices dengan service discovery, API gateway, dan observability.",
+        "tech": ["Golang", "gRPC", "Docker", "Kubernetes"],
+        "skills": ["Service Design", "CI/CD"],
+        "links": { "github": "https://github.com/yourname/microservices-poc", "demo": null }
+    },
+    {
+        "id": "ditenun-mobile",
+        "title": "Ditenun Mobile Migration",
+        "period": "2024",
+        "role": "Android Developer",
+        "image": "/images/project5.svg",
+        "short": "Migrasi website Ditenun ke aplikasi Android.",
+        "description": "Aplikasi Android yang memanfaatkan backend dan model ML dari website Ditenun untuk pengalaman mobile.",
+        "tech": ["Kotlin", "Retrofit", "Jetpack Compose"],
+        "skills": ["API Integration", "MVVM"],
+        "links": { "github": "https://github.com/yourname/ditenun-mobile", "demo": null }
+    }
+]
