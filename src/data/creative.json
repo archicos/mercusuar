@@ -1,0 +1,78 @@
+[
+    {
+        "id": "mercusuar-branding",
+        "title": "Mercusuar Project - Visual Branding",
+        "category": "Logo",
+        "lastUpdated": "2025-08-15",
+        "period": "Agustus 2025",
+        "role": "Brand & UI/UX Designer",
+        "image": "/images/creative/mercusuar-logo.jpg",
+        "short": "Mendesain identitas visual lengkap untuk proyek pribadi 'Mercusuar', termasuk logo, palet warna, dan tipografi.",
+        "description": "Pengembangan identitas merek untuk proyek 'Mercusuar' dari awal. Prosesnya mencakup riset, pembuatan mood board, desain logo utama, pemilihan tipografi, serta penentuan palet warna primer (Teal) dan sekunder (Slate) untuk memastikan konsistensi di semua platform.",
+        "tools": [
+        { "name": "Figma", "logo": "/images/tech/figma.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/photoshop.svg" }
+        ],
+        "skills": ["Brand Identity", "Logo Design", "UI/UX Principles"],
+        "links": {
+        "primary": { "label": "View on Figma", "url": "https://figma.com" }
+        }
+    },
+    {
+        "id": "cinematic-bali",
+        "title": "A Glimpse of Bali - Travel Video",
+        "category": "Video",
+        "lastUpdated": "2025-07-22",
+        "period": "Juli 2025",
+        "role": "Videographer & Editor",
+        "image": "/images/creative/bali-video.jpg",
+        "short": "Video sinematik pendek yang menangkap keindahan alam dan budaya Bali, dengan fokus pada color grading dan sound design.",
+        "description": "Proyek video perjalanan pribadi yang direkam selama seminggu di Bali. Proses pasca-produksi meliputi penyuntingan video, color grading dengan DaVinci Resolve untuk menciptakan mood sinematik, serta sound design untuk membangun atmosfer yang imersif.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/premiere.svg" },
+        { "name": "DaVinci Resolve", "logo": "/images/tech/davinci.svg" }
+        ],
+        "skills": ["Cinematography", "Color Grading", "Sound Design"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com" }
+        }
+    },
+    {
+        "id": "event-poster",
+        "title": "Tech Conference Poster Design",
+        "category": "Poster",
+        "lastUpdated": "2025-06-05",
+        "period": "Juni 2025",
+        "role": "Graphic Designer",
+        "image": "/images/creative/poster-design.jpg",
+        "short": "Desain poster untuk acara konferensi teknologi fiktif, menggabungkan elemen futuristik dengan tipografi yang kuat.",
+        "description": "Desain poster promosi untuk acara 'Innovate Summit 2025'. Konsepnya adalah untuk menarik audiens muda di bidang teknologi dengan visual yang dinamis, palet warna neon, dan komposisi yang berani.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/photoshop.svg" },
+        { "name": "Illustrator", "logo": "/images/tech/illustrator.svg" }
+        ],
+        "skills": ["Graphic Design", "Typography", "Visual Hierarchy"],
+        "links": {
+        "primary": { "label": "View on Drive", "url": "https://drive.google.com" }
+        }
+    },
+    {
+        "id": "app-ui-ux",
+        "title": "Fintech App UI/UX Case Study",
+        "category": "UI/UX",
+        "lastUpdated": "2025-05-12",
+        "period": "Mei 2025",
+        "role": "UI/UX Designer",
+        "image": "/images/creative/fintech-app.jpg",
+        "short": "Studi kasus desain UI/UX untuk aplikasi fintech, dari wireframing hingga prototipe interaktif high-fidelity.",
+        "description": "Merancang ulang alur pengguna untuk aplikasi manajemen keuangan. Proyek ini mencakup riset pengguna, pembuatan wireframe, desain antarmuka (UI) di Figma, dan pembuatan prototipe interaktif untuk menunjukkan alur transfer dan pembayaran.",
+        "tools": [
+        { "name": "Figma", "logo": "/images/tech/figma.svg" },
+        { "name": "FigJam", "logo": "/images/tech/figjam.svg" }
+        ],
+        "skills": ["User Research", "Wireframing", "Prototyping", "Design System"],
+        "links": {
+        "primary": { "label": "Interactive Prototype", "url": "https://figma.com" }
+        }
+    }
+]

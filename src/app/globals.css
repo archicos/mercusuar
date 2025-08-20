@@ -1,26 +1,61 @@
-@import "tailwindcss";
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
+/* ===== BASE ===== */
+@layer base {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    color-scheme: light;
+  }
+
+  html,
+  body {
+    /* Tailwind v3 akan otomatis membuat variabel CSS dari config,
+        namun kita bisa override di sini jika perlu.
+        Untuk sekarang, kita bisa setel warna dasar langsung. */
+    @apply bg-secondary-50 text-secondary-900 font-sans;
+  }
+
+  /* Atur warna dasar untuk dark mode juga */
+  html.dark,
+  body.dark {
+    @apply bg-secondary-900 text-secondary-200;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* ===== COMPONENTS ===== */
+@layer components {
+
+  /* Bantuan util "card" biar konsisten */
+  .card {
+    @apply bg-white rounded-xl border border-secondary-200 shadow-sm;
+  }
+
+  /* Tipografi ringan */
+  h1,
+  h2,
+  h3 {
+    @apply tracking-tight;
+  }
+
+  h1 {
+    @apply text-2xl font-extrabold;
+  }
+
+  h2 {
+    @apply text-xl font-bold;
+  }
+
+  h3 {
+    @apply text-lg font-semibold;
+  }
+
+  p {
+    @apply leading-relaxed;
+  }
+
+  a {
+    @apply text-primary-600 underline-offset-2 hover:text-primary-700 hover:underline;
+  }
 }

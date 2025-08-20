@@ -1,6 +1,70 @@
 [
-    { "id": "g1", "title": "Sunset at Lake Toba", "description": "Matahari terbenam di Danau Toba.", "period": "2024", "location": "Lake Toba, North Sumatra", "image": "/images/gallery1.svg" },
-    { "id": "g2", "title": "Jakarta Skyline", "description": "Gedung-gedung di malam hari.", "period": "2024", "location": "Jakarta, Indonesia", "image": "/images/gallery2.svg" },
-    { "id": "g3", "title": "Green Hills", "description": "Perbukitan hijau setelah hujan.", "period": "2023", "location": "Berastagi, North Sumatra", "image": "/images/gallery3.svg" },
-    { "id": "g4", "title": "Harbor Lights", "description": "Lampu pelabuhan saat senja.", "period": "2022", "location": "Belawan, Medan", "image": "/images/gallery4.svg" }
+    {
+        "id": "g1",
+        "title": "Sunset at Lake Toba",
+        "dateTaken": "2025-07-15",
+        "photographer": "Archico Sembiring",
+        "location": "Lake Toba, North Sumatra",
+        "locationLink": "https://www.google.com/maps/place/Lake+Toba/",
+        "image": "/images/gallery/toba.jpg",
+        "description": "Capturing the serene moment as the sun sets over the vast expanse of Lake Toba, casting a warm, golden glow across the water.",
+        "exif": {
+        "model": "Sony A7 III",
+        "lens": "FE 24-70mm f/2.8 GM",
+        "aperture": "f/8",
+        "shutterSpeed": "1/125s",
+        "iso": 100
+        }
+    },
+    {
+        "id": "g2",
+        "title": "Jakarta's Urban Veins",
+        "dateTaken": "2025-05-20",
+        "photographer": "Archico Sembiring",
+        "location": "Jakarta, Indonesia",
+        "locationLink": "https://www.google.com/maps/place/Jakarta/",
+        "image": "/images/gallery/jakarta.jpg",
+        "description": "A long-exposure shot of Jakarta's main thoroughfare at night, transforming traffic into vibrant trails of light against the city skyline.",
+        "exif": {
+        "model": "Fujifilm X-T4",
+        "lens": "XF 16-55mm f/2.8 R LM WR",
+        "aperture": "f/11",
+        "shutterSpeed": "15s",
+        "iso": 200
+        }
+    },
+    {
+        "id": "g3",
+        "title": "Misty Hills of Berastagi",
+        "dateTaken": "2025-03-02",
+        "photographer": "Archico Sembiring",
+        "location": "Berastagi, North Sumatra",
+        "locationLink": "https://www.google.com/maps/place/Berastagi/",
+        "image": "/images/gallery/berastagi.jpg",
+        "description": "The lush green hills of Berastagi enveloped in a soft morning mist, creating a tranquil and ethereal landscape.",
+        "exif": {
+        "model": "Sony A7 III",
+        "lens": "FE 70-200mm f/4 G OSS",
+        "aperture": "f/5.6",
+        "shutterSpeed": "1/250s",
+        "iso": 400
+        }
+    },
+    {
+        "id": "g4",
+        "title": "Harbor Dusk",
+        "dateTaken": "2024-11-10",
+        "photographer": "Archico Sembiring",
+        "location": "Belawan, Medan",
+        "locationLink": "https://www.google.com/maps/place/Belawan/",
+        "image": "/images/gallery/belawan.jpg",
+        "description": "Fishing boats rest in the calm waters of Belawan harbor as the twilight sky reflects a palette of soft, warm colors.",
+        "exif": {
+        "model": "Fujifilm X-T4",
+        "lens": "XF 35mm f/1.4 R",
+        "aperture": "f/2.0",
+        "shutterSpeed": "1/100s",
+        "iso": 800
+        }
+    }
 ]

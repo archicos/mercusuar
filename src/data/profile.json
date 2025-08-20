@@ -1,46 +1,125 @@
 {
-    "name": "Archico Sembiring",
-    "title": "Software Engineer • Fullstack Developer",
-    "bio": "Saya membangun aplikasi web, mobile, dan desktop. Fokus pada backend, integrasi sistem, dan arsitektur yang rapi. Saat ini belajar Golang untuk memperkuat kompetensi backend.",
-    "location": "Jakarta, Indonesia",
-    "email": "archico@example.com",
-    "phone": "+62 812-3456-7890",
-    "socials": [
-        { "label": "GitHub", "icon": "github", "url": "https://github.com/archico" },
-        { "label": "LinkedIn", "icon": "linkedin", "url": "https://linkedin.com/in/archico" },
-        { "label": "Instagram", "icon": "instagram", "url": "https://instagram.com/archico" },
-        { "label": "Email", "icon": "mail", "url": "mailto:archico@example.com" }
+    "name": "Archico Darius Simpar Sembiring",
+    "title": "Software Engineer | Bachelor of Informatics",
+    "summary": "A final-year Informatics student with a deep interest in Software Engineering. Experienced in building desktop, web, and mobile applications, and currently exploring machine learning. Actively developing communication, collaboration, and leadership skills through organizational involvement.",
+    "jumbotronSlides": [
+        { "image": "/images/jumbotron1.png", "caption": "Developing modern web solutions." },
+        { "image": "/images/jumbotron2.png", "caption": "Passionate about mobile technology." },
+        { "image": "/images/jumbotron3.png", "caption": "Exploring the world through photography." }
     ],
+    "location": "Jakarta, Indonesia",
+    "contact": {
+        "email": "archicosemb@gmail.com",
+        "phone": "+6282167114171"
+    },
     "education": [
         {
-        "degree": "S1 Informatika",
-        "institution": "Institut Teknologi Del",
-        "period": "2020 — 2024",
-        "details": "Fokus pada pengembangan perangkat lunak & HCI."
+        "degree": "Bachelor of Informatics (B.Comp.Sc.)",
+        "logo": "/images/home/logo-itdel.png",
+        "institution": "Del Institute of Technology",
+        "period": "August 2021 — June 2025 (Expected)",
+        "details": [
+            "Current GPA: 3.82/4.00 (155 credits)",
+            "Top 3 Most Outstanding Student of Del Institute of Technology",
+            "Recipient of High Academic Performance Scholarship",
+            "Lecturer Assistant for Basic Programming course"
+        ],
+        "organization": "Ministry of Communication and Information, Student Executive Board (BEM)",
+        "relevantCourses": [
+            "Mobile Application Development",
+            "Web-based Application Development",
+            "Object Oriented Programming",
+            "Database Systems",
+            "Software Engineering",
+            "Data Structure and Algorithm",
+            "Software Project Management",
+            "Software Design and Analysis",
+            "Software Testing and Quality Assurance",
+            "Machine Learning"
+        ],
+        "link": "https://www.del.ac.id"
         }
     ],
     "experience": [
         {
-        "role": "Software Engineer Intern",
-        "company": "PT Indonesia AirAsia (OCC)",
-        "period": "Juni 2024 — Agustus 2024",
-        "details": "Bangun aplikasi Airmaster (TS-1, Training Card, EFB)."
+            "role": "Software Engineer Intern",
+            "company": "Telkomsel",
+            "logo": "/images/home/logo-tsel.png",
+            "period": "September 2024 — December 2024",
+            "details": [
+                "Contributed to the development and maintenance of digital applications to enhance customer experience.",
+                "Collaborated with product and design teams to translate business needs into efficient technical solutions.",
+                "Implemented new features and fixed bugs on internal applications using modern technologies."
+            ],
+            "skills": ["Kotlin", "Go (Golang)", "GCP", "Agile"],
+            "link": "https://www.telkomsel.com"
         },
         {
-        "role": "Freelance Developer",
-        "company": "Self-Employed",
-        "period": "2021 — Sekarang",
-        "details": "Berbagai proyek web & mobile untuk klien lokal."
+            "role": "Software Engineer Intern",
+            "company": "PT Indonesia AirAsia",
+            "logo": "/images/home/logo-iaa.png",
+            "period": "June 2024 — August 2024",
+            "details": [
+                "Collaborated with pilots, cabin crew, and flight staff to analyze application requirements.",
+                "Developed several mobile applications for aviation needs, including a Training Simulator, Electronic Flight Bag, Weight & Balance, and Attendance System.",
+                "Utilized Flutter for front-end development and Firebase as a back-end service."
+            ],
+            "skills": ["Flutter", "Firebase", "Dart", "UI/UX Design"],
+            "link": "https://www.airasia.com"
+        },
+        {
+            "role": "Mobile Development Cohort",
+            "company": "Bangkit Academy led by Google, GoTo, Traveloka",
+            "logo": "/images/home/logo-bangkit.jpg",
+            "period": "February 2024 — July 2024",
+            "details": [
+                "Completed an intensive study program in the Mobile Development learning path (Android with Kotlin).",
+                "Developed a final capstone project in a multi-disciplinary team (Mobile, Cloud, Machine Learning).",
+                "Earned soft skills certification in communication, leadership, and critical thinking."
+            ],
+            "skills": ["Kotlin", "Android Studio", "Jetpack Compose", "Git"],
+            "link": "https://www.airasia.com"
         }
     ],
-    "skills": [
-        { "name": "Golang", "level": 70 },
-        { "name": "Laravel", "level": 85 },
-        { "name": "Node/Express", "level": 80 },
-        { "name": "React / Next.js", "level": 75 },
-        { "name": "Flutter", "level": 80 },
-        { "name": "Kotlin (Android)", "level": 65 },
-        { "name": "PostgreSQL/MySQL", "level": 80 },
-        { "name": "REST API", "level": 85 }
+    "techStacks": [
+        { "name": "Go (Golang)", "logo": "/images/tech/golang.svg" },
+        { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
+        { "name": "Next.js", "logo": "/images/tech/nextjs.svg" },
+        { "name": "Flutter", "logo": "/images/tech/flutter.svg" },
+        { "name": "React", "logo": "/images/tech/react.svg" },
+        { "name": "SQL", "logo": "/images/tech/sql.svg" }
+    ],
+    "competencies": [
+        { "name": "App Development", "icon": "FiSmartphone" },
+        { "name": "Project Management", "icon": "FiClipboard" },
+        { "name": "Public Speaking", "icon": "FiMic" },
+        { "name": "Team Collaboration", "icon": "FiUsers" }
+    ],
+    "socials": [
+        {
+        "label": "Email",
+        "icon": "mail",
+        "url": "mailto:archicosemb@gmail.com"
+        },
+        {
+        "label": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/archicos"
+        },
+        {
+        "label": "LinkedIn",
+        "icon": "linkedin",
+        "url": "https://linkedin.com/in/archico"
+        },
+        {
+        "label": "Instagram",
+        "icon": "instagram",
+        "url": "https://instagram.com/archicosembiring"
+        },
+        {
+        "label": "YouTube",
+        "icon": "youtube",
+        "url": "https://youtube.com/@archicosembiring"
+        }
     ]
 }

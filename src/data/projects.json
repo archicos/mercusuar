@@ -1,62 +1,183 @@
 [
     {
-        "id": "airmaster",
-        "title": "Airmaster – Flight Operation Suite",
-        "period": "Juni 2024 — Agustus 2024",
-        "role": "Fullstack Developer (Intern)",
-        "image": "/images/project1.svg",
-        "short": "Integrasi TS-1, Training Card, dan EFB untuk OCC AirAsia.",
-        "description": "Aplikasi internal untuk Flight Operation Department AirAsia Indonesia. Mengintegrasikan modul TS-1 (penilaian pilot training), Training Card (progress training), dan Electronic Flight Bag (manajemen dokumen).",
-        "tech": ["Flutter", "Firebase", "Firestore", "Cloud Functions", "Node.js"],
-        "skills": ["System Integration", "Auth", "Data Modeling"],
-        "links": { "github": "https://github.com/yourname/airmaster", "demo": null }
-    },
-    {
-        "id": "expense-tracker",
-        "title": "Expense Tracker – GetX",
-        "period": "Agustus 2024",
+        "id": "myindihome-research",
+        "title": "MyIndihome App Modernization Research",
+        "category": "Mobile",
+        "lastUpdated": "2025-12-15",
+        "period": "Sep 2025 — Dec 2025",
         "role": "Mobile Developer",
-        "image": "/images/project2.svg",
-        "short": "Aplikasi catatan keuangan dengan kategori dinamis.",
-        "description": "Aplikasi pelacak pemasukan dan pengeluaran dengan autentikasi, kategori, dan laporan sederhana. Dibangun dengan Flutter + GetX.",
-        "tech": ["Flutter", "GetX", "Firebase Auth"],
-        "skills": ["State Management", "UX Writing"],
-        "links": { "github": "https://github.com/yourname/expense-tracker", "demo": null }
+        "image": "/images/projects/project-myindihome.jpg",
+        "short": "A research-driven initiative to rebuild the MyIndihome application using a modern stack featuring React Native and Expo.",
+        "description": "Led a research and development project for Telkomsel to explore the feasibility of modernizing the MyIndihome application. Developed a proof-of-concept using React Native with Expo for rapid cross-platform development. A simulated API backend was created with NestJS to mimic existing services, enabling comprehensive testing of the new mobile architecture.",
+        "tech": [
+        { "name": "React Native", "logo": "/images/tech/react.svg" },
+        { "name": "Expo", "logo": "/images/tech/expo.svg" },
+        { "name": "NestJS", "logo": "/images/tech/nestjs.svg" },
+        { "name": "MySQL", "logo": "/images/tech/mysql.svg" }
+        ],
+        "skills": ["Cross-Platform Dev", "API Simulation", "Proof of Concept", "Mobile Architecture"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
     },
     {
-        "id": "portfolio-v1",
-        "title": "Portfolio v1 – Next.js",
-        "period": "2025",
+        "id": "levelearn",
+        "title": "Levelearn - Gamified Learning App",
+        "category": "Mobile",
+        "lastUpdated": "2025-06-28",
+        "period": "Jan 2025 — Jun 2025",
+        "role": "Backend & Mobile Developer",
+        "image": "/images/projects/project-levelearn.jpg",
+        "short": "A mobile learning application that enhances user engagement through personalized gamification elements.",
+        "description": "Developed a comprehensive mobile learning platform featuring modules for Materials, Assessments, and Assignments. The core of the application is its gamification system, which includes Badges, Levels, Leaderboards, and Points to motivate users. The backend, built with Node.js and Prisma, manages user preferences to deliver a tailored learning experience.",
+        "tech": [
+        { "name": "Flutter", "logo": "/images/tech/flutter.svg" },
+        { "name": "Node.js", "logo": "/images/tech/nodejs.svg" },
+        { "name": "Prisma", "logo": "/images/tech/prisma.svg" },
+        { "name": "Supabase", "logo": "/images/tech/supabase.svg" }
+        ],
+        "skills": ["Gamification", "REST API Design", "Full-stack Development", "User Engagement"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
+    },
+    {
+        "id": "stuntguard",
+        "title": "StuntGuard - AI Stunting Detection",
+        "category": "Mobile",
+        "lastUpdated": "2024-07-25",
+        "period": "May 2024 — Jul 2024",
+        "role": "Mobile Developer",
+        "image": "/images/projects/project-stuntguard.jpg",
+        "short": "A mobile application to detect stunting in children by leveraging a cloud-hosted AI model. My Bangkit Academy capstone project.",
+        "description": "As part of a 7-member team for the Bangkit Academy capstone, I led the mobile development effort for StuntGuard. The native Android application captures user data and interacts with a machine learning model deployed on Google Cloud to provide early stunting detection analysis. Collaborated closely with the Cloud Computing and Machine Learning teams to ensure seamless API integration and a smooth user experience.",
+        "tech": [
+        { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
+        { "name": "Android Studio", "logo": "/images/tech/android-studio.svg" },
+        { "name": "Google Cloud", "logo": "/images/tech/gcp.svg" },
+        { "name": "Retrofit", "logo": "/images/tech/retrofit.svg" }
+        ],
+        "skills": ["Team Collaboration", "API Integration", "MVVM Architecture", "Agile"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
+    },
+    {
+        "id": "frk-fed",
+        "title": "FRK & FED Monorepo System",
+        "category": "Web",
+        "lastUpdated": "2024-06-15",
+        "period": "Feb 2024 — Jun 2024",
         "role": "Fullstack Developer",
-        "image": "/images/project3.svg",
-        "short": "Versi pertama portfolio dengan SSG + JSON.",
-        "description": "Website portfolio statis dengan Next.js (App Router) dan Tailwind. Data diambil dari file JSON, siap di-upgrade ke backend Golang.",
-        "tech": ["Next.js", "TailwindCSS", "TypeScript"],
-        "skills": ["SSG", "Responsive Design"],
-        "links": { "github": "https://github.com/yourname/portfolio", "demo": "https://your-portfolio-demo.com" }
+        "image": "/images/projects/project-frk-fed.jpg",
+        "short": "A microservices-based web application for IT Del staff to manage work plans (FRK) and self-evaluations (FED).",
+        "description": "Developed a comprehensive, form-based system for academic staff at Del Institute of Technology. The application allows staff to create detailed Work Plans (FRK) at the beginning of a semester and complete Self-Evaluation Forms (FED) at the end, cross-referencing their initial plans. The system was designed with a microservices architecture using Laravel for the frontend and Lumen for backend services to ensure scalability and separation of concerns.",
+        "tech": [
+        { "name": "Laravel", "logo": "/images/tech/laravel.svg" },
+        { "name": "Lumen", "logo": "/images/tech/lumen.svg" },
+        { "name": "PHP", "logo": "/images/tech/php.svg" },
+        { "name": "Bootstrap", "logo": "/images/tech/bootstrap.svg" }
+        ],
+        "skills": ["Microservices", "Agile", "Scrum", "Monorepo", "Form Handling"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
     },
     {
-        "id": "microservices-poc",
-        "title": "Microservices PoC",
-        "period": "2024",
-        "role": "Backend Engineer",
-        "image": "/images/project4.svg",
-        "short": "Proof-of-Concept arsitektur microservices.",
-        "description": "Eksperimen microservices dengan service discovery, API gateway, dan observability.",
-        "tech": ["Golang", "gRPC", "Docker", "Kubernetes"],
-        "skills": ["Service Design", "CI/CD"],
-        "links": { "github": "https://github.com/yourname/microservices-poc", "demo": null }
+        "id": "repostory",
+        "title": "Repostory - Public Story Sharing App",
+        "category": "Mobile",
+        "lastUpdated": "2024-06-10",
+        "period": "Apr 2024 — Jun 2024",
+        "role": "Mobile Developer",
+        "image": "/images/projects/project-repostory.jpg",
+        "short": "A native Android app for discovering and sharing stories publicly, built entirely by consuming a public API.",
+        "description": "Developed a native Android client for a public story-sharing platform. The application allows users to browse a global feed of stories, view content from other users, and post their own stories. The entire application was built by integrating with a provided public API, focusing on clean architecture, efficient data fetching with Retrofit, and a modern UI using native Android components.",
+        "tech": [
+        { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
+        { "name": "Android Studio", "logo": "/images/tech/android-studio.svg" }
+        ],
+        "skills": ["Public API", "Data Fetching", "UI/UX", "Clean Architecture"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
     },
     {
-        "id": "ditenun-mobile",
-        "title": "Ditenun Mobile Migration",
-        "period": "2024",
-        "role": "Android Developer",
-        "image": "/images/project5.svg",
-        "short": "Migrasi website Ditenun ke aplikasi Android.",
-        "description": "Aplikasi Android yang memanfaatkan backend dan model ML dari website Ditenun untuk pengalaman mobile.",
-        "tech": ["Kotlin", "Retrofit", "Jetpack Compose"],
-        "skills": ["API Integration", "MVVM"],
-        "links": { "github": "https://github.com/yourname/ditenun-mobile", "demo": null }
+        "id": "asclepius",
+        "title": "Asclepius - Cancer Detection App",
+        "category": "Mobile",
+        "lastUpdated": "2024-04-20",
+        "period": "Mar 2024 — Apr 2024",
+        "role": "Mobile Developer",
+        "image": "/images/projects/project-asclepius.jpg",
+        "short": "A native Android application that utilizes a local AI model to analyze images and detect signs of skin cancer.",
+        "description": "Built an Android application as part of a learning module on implementing on-device machine learning. The app allows users to upload or capture an image, which is then processed by a locally integrated TensorFlow Lite model to provide a preliminary analysis for potential skin cancer.",
+        "tech": [
+        { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
+        { "name": "TensorFlow Lite", "logo": "/images/tech/tensorflow.svg" }
+        ],
+        "skills": ["On-Device ML", "Image Processing", "Android SDK"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
+    },
+    {
+        "id": "github-user-finder",
+        "title": "GitHub User Finder",
+        "category": "Mobile",
+        "lastUpdated": "2024-04-05",
+        "period": "Mar 2024 — Apr 2024",
+        "role": "Mobile Developer",
+        "image": "/images/projects/project-github-finder.jpg",
+        "short": "A simple yet elegant Android app for searching GitHub users and viewing their profiles using the official GitHub API.",
+        "description": "Developed a client application for the public GitHub API. The app features a user search functionality, a list of results, and a detailed view for each user showing their repositories, followers, and following count. This project was a deep dive into consuming complex REST APIs, handling pagination, and displaying data in a user-friendly way.",
+        "tech": [
+        { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
+        { "name": "Retrofit", "logo": "/images/tech/retrofit.svg" }
+        ],
+        "skills": ["REST API", "JSON Parsing", "Pagination"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
+    },
+    {
+        "id": "semat-del",
+        "title": "SEMAT - Student Admission System",
+        "category": "Web",
+        "lastUpdated": "2023-12-20",
+        "period": "Sep 2023 — Dec 2023",
+        "role": "Fullstack Developer",
+        "image": "/images/projects/project-semat.jpg",
+        "short": "The official online student admission information system for Del Institute of Technology, now deployed and in use.",
+        "description": "Worked as a key developer on the official SPMB (New Student Admission Selection) information system for IT Del. This large-scale project involved building a robust, secure, and user-friendly portal for prospective students to register, upload documents, check schedules, and view results. The application is currently deployed and serves as the primary admission gateway for the institute.",
+        "tech": [
+        { "name": "PHP", "logo": "/images/tech/php.svg" },
+        { "name": "Laravel", "logo": "/images/tech/laravel.svg" },
+        { "name": "MariaDB", "logo": "/images/tech/mariadb.svg" },
+        { "name": "GitLab", "logo": "/images/tech/gitlab.svg" }
+        ],
+        "skills": ["Agile Methodologies", "Scrum", "Production Deployment", "Database Management"],
+        "links": { "github": null, "demo": "https://semat.del.ac.id" }
+    },
+    {
+        "id": "toba-destination",
+        "title": "Toba Destination App",
+        "category": "Mobile",
+        "lastUpdated": "2024-02-28",
+        "period": "Feb 2024",
+        "role": "Mobile Developer",
+        "image": "/images/projects/project-toba-destination.jpg",
+        "short": "A simple Android application to showcase a curated list of beautiful tourist destinations around Lake Toba.",
+        "description": "A personal project to practice fundamental Android development skills. This app displays a static, curated list of tourist spots in the Toba region, featuring images, descriptions, and locations. It was built using native Kotlin and Android Studio, focusing on creating a clean and simple user interface with RecyclerView.",
+        "tech": [
+        { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
+        { "name": "Android Studio", "logo": "/images/tech/android-studio.svg" }
+        ],
+        "skills": ["UI/UX Fundamentals", "RecyclerView", "Static Data"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
+    },
+    {
+        "id": "laravel-portfolio",
+        "title": "Laravel Portfolio Website",
+        "category": "Web",
+        "lastUpdated": "2023-10-15",
+        "period": "Sep 2023 — Oct 2023",
+        "role": "Web Developer",
+        "image": "/images/projects/project-laravel-portfolio.jpg",
+        "short": "An early version of my personal portfolio website, built from scratch using the Laravel framework and Tailwind CSS.",
+        "description": "One of my initial forays into web development, this project involved building a complete portfolio site using the TALL stack (Tailwind, Alpine.js, Laravel, Livewire). It features sections for projects, skills, and a contact form, all managed through the Laravel backend and rendered with Blade templates.",
+        "tech": [
+        { "name": "Laravel", "logo": "/images/tech/laravel.svg" },
+        { "name": "TailwindCSS", "logo": "/images/tech/tailwind.svg" },
+        { "name": "PHP", "logo": "/images/tech/php.svg" }
+        ],
+        "skills": ["MVC", "Blade Templating", "CRUD Operations"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
     }
 ]

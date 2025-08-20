@@ -1,43 +1,67 @@
-import type { Config } from 'tailwindcss'
+import type { Config } from "tailwindcss";
 
-export default {
-    content: ['./src/**/*.{js,ts,jsx,tsx,mdx}'],
+const config: Config = {
+    darkMode: "class",
+    content: [
+        "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
+        "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
+        "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+    ],
     theme: {
         extend: {
         fontFamily: {
-            sans: ['var(--font-geist-sans)'],
-            mono: ['var(--font-geist-mono)'],
+            // Gunakan variabel CSS dari layout.tsx
+            sans: ["var(--font-sans)", "sans-serif"],
+            mono: ["var(--font-geist-mono)", "ui-monospace"],
         },
         colors: {
+            // Definisikan palet warna kustom
             primary: {
-            50: '#eff6ff',
-            100: '#dbeafe',
-            200: '#bfdbfe',
-            300: '#93c5fd',
-            400: '#60a5fa',
-            500: '#3b82f6', // Warna biru utama
-            600: '#2563eb',
-            700: '#1d4ed8',
-            800: '#1e40af',
-            900: '#1e3a8a',
-            950: '#172554',
+                '50': '#f0f4f8',
+                '100': '#d9e2ec',
+                '200': '#bcccdc',
+                '300': '#9fb5cc',
+                '400': '#829eb9',
+                '500': '#6588a6',
+                '600': '#506d89', // Warna utama yang bagus untuk tombol & link
+                '700': '#40576d',
+                '800': '#304152',
+                '900': '#202c37',
             },
-        },
-        keyframes: {
-            "fade-in": {
-            "0%": { opacity: "0" },
-            "100%": { opacity: "1" },
+            // PALET BARU: Stone (Abu-abu Batu yang Hangat & Andal)
+            secondary: {
+                '50': '#fafaf9',   // Background light
+                '100': '#f5f5f4',
+                '200': '#e7e5e4',  // Border light
+                '300': '#d6d3d1',
+                '400': '#a8a29e',  // Teks sekunder light
+                '500': '#78716c',
+                '600': '#57534e',  // Teks utama light
+                '700': '#44403c',  // Border dark
+                '800': '#292524',  // Background card dark
+                '900': '#1c1917',  // Background body dark
             },
-            "slide-in-up": {
-                "0%": { transform: "translateY(20px)", opacity: "0" },
-                "100%": { transform: "translateY(0)", opacity: "1" },
+            // PALET BARU: Golden Light (Aksen untuk Kreativitas & Inovasi)
+            accent: {
+                '50': '#fefce8',
+                '100': '#fef9c3',
+                '200': '#fef08a',
+                '300': '#fde047',
+                '400': '#facc15', // Warna aksen utama
+                '500': '#eab308',
+                '600': '#ca8a04',
+                '700': '#a16207',
+                '800': '#854d0e',
+                '900': '#713f12',
             },
-        },
-        animation: {
-            "fade-in": "fade-in 0.5s ease-out forwards",
-            "slide-in-up": "slide-in-up 0.5s ease-out forwards",
         },
         },
     },
-    plugins: [],
-} satisfies Config
+    plugins: [
+        require('@tailwindcss/forms'),
+        require('@tailwindcss/typography'),
+        require('@tailwindcss/aspect-ratio'), 
+        require('@tailwindcss/line-clamp'), 
+    ],
+};
+export default config;

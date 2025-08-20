@@ -1,5 +1,27 @@
 [
-    { "id": "b1", "title": "Belajar Golang untuk Backend", "date": "2025-08-10", "image": "/images/blog1.svg", "location": "Jakarta", "period": "2025", "excerpt": "Kenapa Go cocok untuk backend modern.", "content": "Golang menawarkan performa tinggi, concurrency yang elegan, dan ekosistem yang matang untuk backend modern." },
-    { "id": "b2", "title": "Human-Centered Gamification", "date": "2025-07-21", "image": "/images/blog2.svg", "location": "Medan", "period": "2025", "excerpt": "Menghubungkan preferensi pengguna dengan elemen game.", "content": "Pendekatan gamifikasi berbasis preferensi meningkatkan engagement dan kepuasan pengguna." },
-    { "id": "b3", "title": "Membuat Portfolio Modern dengan Next.js", "date": "2025-06-30", "image": "/images/blog3.svg", "location": "Jakarta", "period": "2025", "excerpt": "Langkah-langkah praktis membangun portfolio.", "content": "Manfaatkan App Router, Tailwind, dan SSG untuk membuat portfolio cepat dan responsif." }
+    {
+        "slug": "perjalanan-memulai-karir-software-engineer",
+        "title": "Perjalanan Saya Memulai Karir sebagai Software Engineer",
+        "date": "2025-08-20",
+        "author": "Archico Sembiring",
+        "location": "Jakarta, Indonesia",
+        "coverImage": "/images/blog/software-journey.jpg",
+        "excerpt": "Dari bangku kuliah hingga magang pertama, ini adalah cerita tentang bagaimana saya menavigasi tantangan dan pembelajaran di awal karir.",
+        "images": [
+        "/images/blog/code-on-screen.jpg",
+        "/images/blog/team-discussion.jpg"
+        ],
+        "content": "## Awal Mula Ketertarikan\n\nSemuanya berawal dari rasa penasaran sederhana di semester pertama kuliah. Melihat barisan kode yang bisa berubah menjadi aplikasi fungsional terasa seperti sebuah keajaiban. Mata kuliah **Dasar Pemrograman** menjadi gerbang utama saya. Meskipun awalnya terasa sulit, setiap *bug* yang berhasil saya selesaikan memberikan kepuasan yang luar biasa.\n\n### Proyek Pertama yang Mengubah Segalanya\n\nProyek tugas akhir untuk mata kuliah **Pengembangan Aplikasi Web** adalah titik baliknya. Kami diminta membuat sistem informasi sederhana menggunakan Laravel. Di sinilah saya belajar tentang:\n\n- Arsitektur MVC (Model-View-Controller)\n- Manajemen database dengan Eloquent\n- Proses *deployment* ke server\n\nPengalaman ini membuka mata saya bahwa *software engineering* bukan hanya tentang menulis kode, tapi juga tentang merancang solusi yang efisien dan terstruktur."
+    },
+    {
+        "slug": "belajar-golang-dari-dasar-untuk-backend",
+        "title": "Mengapa Saya Memilih Go (Golang) untuk Backend",
+        "date": "2025-07-10",
+        "author": "Archico Sembiring",
+        "location": "Remote",
+        "coverImage": "/images/blog/golang-logo.jpg",
+        "excerpt": "Alasan di balik keputusan saya untuk mendalami Go untuk pengembangan backend, dari performa, konkurensi, hingga ekosistemnya.",
+        "images": [],
+        "content": "## Mencari Bahasa yang Tepat\n\nSetelah cukup nyaman dengan ekosistem PHP (Laravel) dan JavaScript (Node.js), saya merasa perlu mempelajari bahasa yang menawarkan paradigma berbeda, terutama untuk membangun layanan *backend* yang *scalable*. Pilihan saya jatuh pada **Go (Golang)**.\n\nBeberapa alasan utamanya adalah:\n\n1.  **Performa:** Go adalah bahasa yang di-*compile*, membuatnya jauh lebih cepat dibandingkan bahasa interpretasi seperti PHP atau Python.\n2.  **Konkurensi Sederhana:** Goroutines dan Channels adalah fitur bawaan yang membuat penanganan proses konkuren menjadi sangat elegan dan mudah dipahami.\n3.  **Statically Typed:** Meminimalisir *runtime error* yang sering terjadi pada bahasa *dynamically typed*.\n\nMembuat beberapa *microservices* sederhana menggunakan Go benar-benar memperkuat pemahaman saya tentang bagaimana membangun sistem terdistribusi yang andal."
+    }
 ]
