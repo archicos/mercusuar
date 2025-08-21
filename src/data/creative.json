@@ -1,78 +1,643 @@
 [
     {
-        "id": "mercusuar-branding",
-        "title": "Mercusuar Project - Visual Branding",
-        "category": "Logo",
-        "lastUpdated": "2025-08-15",
-        "period": "Agustus 2025",
-        "role": "Brand & UI/UX Designer",
-        "image": "/images/creative/mercusuar-logo.jpg",
-        "short": "Mendesain identitas visual lengkap untuk proyek pribadi 'Mercusuar', termasuk logo, palet warna, dan tipografi.",
-        "description": "Pengembangan identitas merek untuk proyek 'Mercusuar' dari awal. Prosesnya mencakup riset, pembuatan mood board, desain logo utama, pemilihan tipografi, serta penentuan palet warna primer (Teal) dan sekunder (Slate) untuk memastikan konsistensi di semua platform.",
-        "tools": [
-        { "name": "Figma", "logo": "/images/tech/figma.svg" },
-        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
-        ],
-        "skills": ["Brand Identity", "Logo Design", "UI/UX Principles"],
-        "links": {
-        "primary": { "label": "View on Figma", "url": "https://figma.com" }
-        }
-    },
-    {
-        "id": "cinematic-bali",
-        "title": "A Glimpse of Bali - Travel Video",
-        "category": "Video",
-        "lastUpdated": "2025-07-22",
-        "period": "Juli 2025",
-        "role": "Videographer & Editor",
-        "image": "/images/creative/bali-video.jpg",
-        "short": "Video sinematik pendek yang menangkap keindahan alam dan budaya Bali, dengan fokus pada color grading dan sound design.",
-        "description": "Proyek video perjalanan pribadi yang direkam selama seminggu di Bali. Proses pasca-produksi meliputi penyuntingan video, color grading dengan DaVinci Resolve untuk menciptakan mood sinematik, serta sound design untuk membangun atmosfer yang imersif.",
-        "tools": [
-        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
-        { "name": "DaVinci Resolve", "logo": "/images/tech/davinci.svg" }
-        ],
-        "skills": ["Cinematography", "Color Grading", "Sound Design"],
-        "links": {
-        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com" }
-        }
-    },
-    {
-        "id": "event-poster",
-        "title": "Tech Conference Poster Design",
-        "category": "Poster",
-        "lastUpdated": "2025-06-05",
-        "period": "Juni 2025",
-        "role": "Graphic Designer",
-        "image": "/images/creative/poster-design.jpg",
-        "short": "Desain poster untuk acara konferensi teknologi fiktif, menggabungkan elemen futuristik dengan tipografi yang kuat.",
-        "description": "Desain poster promosi untuk acara 'Innovate Summit 2025'. Konsepnya adalah untuk menarik audiens muda di bidang teknologi dengan visual yang dinamis, palet warna neon, dan komposisi yang berani.",
+        "id": "ig-ifdel21",
+        "title": "Instagram @ifdel.21",
+        "category": "Instagram",
+        "lastUpdated": "2021-08-30",
+        "period": "August 2021 - Present",
+        "role": "Social Media Manager",
+        "image": "/images/creative/ig-bandar.jpg",
+        "short": "Managing the class Instagram account for the 2021 Informatics Engineering batch at IT Del.",
+        "description": "Held the responsibility for managing and creating content for the @ifdel.21 class Instagram account. Tasks included visual design, short video editing, and keeping the account active as a central information hub for the class.",
         "tools": [
         { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" },
-        { "name": "Illustrator", "logo": "/images/tech/adobe-illustrator.svg" }
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Lightroom", "logo": "/images/tech/adobe-lightroom.svg" }
         ],
-        "skills": ["Graphic Design", "Typography", "Visual Hierarchy"],
+        "skills": ["Graphic Design", "Social Media Management", "Video Editing"],
         "links": {
-        "primary": { "label": "View on Drive", "url": "https://drive.google.com" }
+        "primary": { "label": "Visit @ifdel.21", "url": "https://www.instagram.com/ifdel.21" }
         }
     },
     {
-        "id": "app-ui-ux",
-        "title": "Fintech App UI/UX Case Study",
-        "category": "UI/UX",
-        "lastUpdated": "2025-05-12",
-        "period": "Mei 2025",
-        "role": "UI/UX Designer",
-        "image": "/images/creative/fintech-app.jpg",
-        "short": "Studi kasus desain UI/UX untuk aplikasi fintech, dari wireframing hingga prototipe interaktif high-fidelity.",
-        "description": "Merancang ulang alur pengguna untuk aplikasi manajemen keuangan. Proyek ini mencakup riset pengguna, pembuatan wireframe, desain antarmuka (UI) di Figma, dan pembuatan prototipe interaktif untuk menunjukkan alur transfer dan pembayaran.",
+        "id": "troopers-recap",
+        "title": "Troopers Internship Recap",
+        "category": "LinkedIn",
+        "lastUpdated": "2025-12-28",
+        "period": "December 2025",
+        "role": "Graphic Designer",
+        "image": "/images/creative/linkedin-troopers.png",
+        "short": "Visual design for a recap post about a 4-month internship experience at Telkomsel.",
+        "description": "Designed graphic content for a LinkedIn post summarizing the experiences, projects, and learnings during the four-month 'Troopers' internship program at Telkomsel.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Social Media Content"],
+        "links": {
+        "primary": { "label": "View on LinkedIn", "url": "https://www.linkedin.com/in/archico" }
+        }
+    },
+    {
+        "id": "video-levelearn",
+        "title": "Levelearn App Advertisement",
+        "category": "Video",
+        "lastUpdated": "2025-07-31",
+        "period": "July 2025",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-levelearn.png",
+        "short": "An animated advertisement video for the Levelearn application, showcasing its gamification research and features.",
+        "description": "Created a promotional video for the Levelearn application, which also served to present its gamification research. The video heavily utilizes motion graphics and animation to explain the app's core concepts in an engaging way.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "Motion Graphics"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "poster-ta",
+        "title": "Final Project Research Poster",
+        "category": "Poster",
+        "lastUpdated": "2025-07-30",
+        "period": "July 2025",
+        "role": "Graphic Designer",
+        "image": "/images/creative/poster-ta.jpg",
+        "short": "Academic poster design to present the final project research findings on 'Ditenun Ulos Colorizing'.",
+        "description": "Designed an academic research poster for a Final Project titled 'Ditenun Ulos Colorizing Generative Pattern', visually highlighting the methodology and results.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Academic Poster"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "ig-albumdel",
+        "title": "Instagram @albumdel",
+        "category": "Instagram",
+        "lastUpdated": "2024-05-30",
+        "period": "May 2024 - May 2025",
+        "role": "Social Media Manager",
+        "image": "/images/creative/ig-album.png",
+        "short": "Managing the official Instagram account for the Del Institute of Technology Alumni Association (Album Del).",
+        "description": "Responsible for content management and social media strategy for the @albumdel Instagram account. Tasks included designing the feed, creating content, and engaging with the alumni community.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Social Media Management", "Community Engagement"],
+        "links": {
+        "primary": { "label": "Visit @albumdel", "url": "https://www.instagram.com/albumdel" }
+        }
+    },
+    {
+        "id": "ig-bemitdel",
+        "title": "Instagram @bem.itdel",
+        "category": "Instagram",
+        "lastUpdated": "2022-05-30",
+        "period": "May 2022 - November 2024",
+        "role": "Social Media Manager",
+        "image": "/images/creative/ig-bem.jpg",
+        "short": "Managing the official Instagram account for the Student Executive Board (BEM) of Del Institute of Technology.",
+        "description": "Responsible for the content strategy and execution for the IT Del Student Executive Board's Instagram account. Managed the posting schedule, created graphic designs, and produced promotional videos for various campus events and announcements.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" },
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" }
+        ],
+        "skills": ["Graphic Design", "Social Media Management", "Video Editing", "Branding"],
+        "links": {
+        "primary": { "label": "Visit @bem.itdel", "url": "https://www.instagram.com/bem.itdel" }
+        }
+    },
+    {
+        "id": "telkomsel-jagabumi",
+        "title": "Telkomsel #JagaBumi Recap",
+        "category": "LinkedIn",
+        "lastUpdated": "2024-10-30",
+        "period": "October 2024",
+        "role": "Graphic Designer",
+        "image": "/images/creative/linkedin-jagabumi.png",
+        "short": "Graphic design for a social activity recap of Telkomsel #JagaBumi, published on LinkedIn.",
+        "description": "Created and designed visual content for a LinkedIn post summarizing participation in the Telkomsel #JagaBumi social event, highlighting a commitment to environmental causes.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Social Media Content"],
+        "links": {
+        "primary": { "label": "View on LinkedIn", "url": "https://www.linkedin.com/in/archico" }
+        }
+    },
+    {
+        "id": "poster-summercourse",
+        "title": "SDG Summer Course Poster",
+        "category": "Poster",
+        "lastUpdated": "2024-10-15",
+        "period": "October 2024",
+        "role": "Graphic Designer",
+        "image": "/images/creative/poster-summercourse.jpg",
+        "short": "Informative poster design for an assignment related to the Sustainable Development Goals (SDG).",
+        "description": "Designed a visually engaging and informative poster for a Summer Course assignment, focusing on delivering a message about one of the Sustainable Development Goals (SDG).",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Infographics"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "allstars-recap",
+        "title": "Allstars Internship Recap",
+        "category": "LinkedIn",
+        "lastUpdated": "2024-09-30",
+        "period": "September 2024",
+        "role": "Graphic Designer",
+        "image": "/images/creative/linkedin-allstars.png",
+        "short": "Created graphic designs for a LinkedIn post summarizing a 3-month internship experience at AirAsia.",
+        "description": "Designed a carousel post for LinkedIn that visually narrates the journey and achievements during the three-month 'Allstars Internship' program at PT Indonesia AirAsia.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Storytelling", "Social Media Content"],
+        "links": {
+        "primary": { "label": "View on LinkedIn", "url": "https://www.linkedin.com/in/archico" }
+        }
+    },
+    {
+        "id": "life-at-bangkit",
+        "title": "#LifeAtBangkit Recap",
+        "category": "LinkedIn",
+        "lastUpdated": "2024-02-28",
+        "period": "February 2024 - July 2024",
+        "role": "Graphic Designer",
+        "image": "/images/creative/linkedin-bangkit.jpg",
+        "short": "Designed a visual summary of all activities during the Bangkit Academy 2024 program.",
+        "description": "Created a series of graphic designs for a LinkedIn post that summarized the journey, learnings, and key moments during the Bangkit Academy 2024 program.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Visual Storytelling"],
+        "links": {
+        "primary": { "label": "View on LinkedIn", "url": "https://www.linkedin.com/in/archico" }
+        }
+    },
+    {
+        "id": "stuntguard-recap",
+        "title": "StuntGuard Capstone Project Recap",
+        "category": "LinkedIn",
+        "lastUpdated": "2024-07-28",
+        "period": "July 2024",
+        "role": "Graphic Designer",
+        "image": "/images/creative/linkedin-stuntguard.png",
+        "short": "Visual summary design for the StuntGuard project at Bangkit Academy, from problem analysis to project management.",
+        "description": "Created a comprehensive graphic design for a LinkedIn post summarizing the 'StuntGuard' Capstone Project journey at Bangkit Academy. The content covers problem analysis, design, development, and project management within a multi-disciplinary team.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Project Showcase", "Social Media Content"],
+        "links": {
+        "primary": { "label": "View on LinkedIn", "url": "https://www.linkedin.com/in/archico" }
+        }
+    },
+    {
+        "id": "logo-stuntguard",
+        "title": "StuntGuard Logo",
+        "category": "Logo",
+        "lastUpdated": "2024-05-25",
+        "period": "May 2024",
+        "role": "Illustrator",
+        "image": "/images/creative/logo-stuntguard.png",
+        "short": "Logo design for the StuntGuard application, where each element holds a philosophical meaning.",
+        "description": "Created the primary visual identity for the StuntGuard application through its logo design. Every element, from shape to color, was carefully chosen to represent the application's mission of protecting children.",
+        "tools": [
+        { "name": "Illustrator", "logo": "/images/tech/adobe-illustrator.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Illustrator", "Logo Design", "Graphic Design", "Branding"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "poster-csc",
+        "title": "CSC Challenge Poster",
+        "category": "Poster",
+        "lastUpdated": "2024-04-20",
+        "period": "April 2024",
+        "role": "Graphic Designer",
+        "image": "/images/creative/poster-csc.jpg",
+        "short": "Poster design for a LinkedIn article about a 'Critical Thinking & Problem Solving Challenge'.",
+        "description": "Created the main visual in the form of a poster to support a LinkedIn article titled 'Critical Thinking & Problem Solving Challenge', designed to attract attention and convey the theme.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Content Marketing"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "video-berisik",
+        "title": "Berisik - Music Visualization",
+        "category": "Video",
+        "lastUpdated": "2024-03-31",
+        "period": "March 2024",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-berisik.png",
+        "short": "A music visualization entry for a spiritual music festival, interpreting the song 'Berisik' by Dere into a narrative story.",
+        "description": "Developed a visual narrative for the song 'Berisik' by Dere as a submission for a spiritual music festival's visualization competition. The project involved translating the song's themes and emotions into a compelling short film.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "Storytelling"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "poster-adaptability",
+        "title": "Adaptability Poster",
+        "category": "Poster",
+        "lastUpdated": "2024-03-15",
+        "period": "March 2024",
+        "role": "Graphic Designer",
+        "image": "/images/creative/poster-adaptability.jpg",
+        "short": "Supporting poster design for the LinkedIn article titled '5 Ways of Adaptability'.",
+        "description": "Designed a visually compelling poster to complement a LinkedIn Article about the '5 Ways of Adaptability', helping to break up text and highlight key points.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Visual Communication"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "video-pardinggaran",
+        "title": "Pardinggaran Village Promotion",
+        "category": "Video",
+        "lastUpdated": "2023-08-31",
+        "period": "August 2023",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-pardinggaran.png",
+        "short": "A cinematic promotional video to showcase Pardinggaran Village as a potential tourist destination.",
+        "description": "Produced a cinematic promotional video for Pardinggaran Village. The goal was to highlight its natural beauty and cultural uniqueness to support its bid to become an officially recognized tourist village.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "Promotional Video"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "logo-sahala-sauduran",
+        "title": "Sahala Sauduran Cabinet Logo",
+        "category": "Logo",
+        "lastUpdated": "2023-08-10",
+        "period": "August 2023",
+        "role": "Illustrator",
+        "image": "/images/creative/logo-kabinet.jpg",
+        "short": "Logo design for the IT Del Student Executive Board Cabinet 'Sahala Sauduran', with deep philosophy in each element.",
+        "description": "Designed the official logo for the IT Del Student Executive Board (BEM) Cabinet, 'Sahala Sauduran'. The design incorporates various symbols, each with a philosophical meaning related to the cabinet's vision and mission.",
+        "tools": [
+        { "name": "Illustrator", "logo": "/images/tech/adobe-illustrator.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Illustrator", "Logo Design", "Graphic Design"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "video-sobatlistrik",
+        "title": "Sobat Listrik Advertisement",
+        "category": "Video",
+        "lastUpdated": "2023-07-31",
+        "period": "July 2023",
+        "role": "Video Editor",
+        "image": "/images/creative/video-sobatlistrik.jpg",
+        "short": "An animated advertisement video for the SobatListrik application, created for the Gemastik 2023 competition.",
+        "description": "Edited and produced an animated advertisement video for the 'SobatListrik' application. The video was created as an entry for the Gemastik 2023 national competition, utilizing illustrations, motion graphics, and animation to explain the app's benefits.",
         "tools": [
         { "name": "Figma", "logo": "/images/tech/figma.svg" },
-        { "name": "FigJam", "logo": "/images/tech/figjam.svg" }
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
         ],
-        "skills": ["User Research", "Wireframing", "Prototyping", "Design System"],
+        "skills": ["Illustration", "Graphic Design", "Motion Graphics", "Animation"],
         "links": {
-        "primary": { "label": "Interactive Prototype", "url": "https://figma.com" }
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "poster-kompetisi",
+        "title": "Competition Poster",
+        "category": "Poster",
+        "lastUpdated": "2023-04-12",
+        "period": "April 2023",
+        "role": "Graphic Designer",
+        "image": "/images/creative/poster-kompetisi.jpg",
+        "short": "Promotional poster for a photography and short film competition held by Depkominfo IT Del.",
+        "description": "Designed the main poster to announce and promote a photography and short film competition organized by the Communication and Information Department of the IT Del Student Executive Board.",
+        "tools": [
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Graphic Design", "Event Promotion"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "my-home-my-dorm",
+        "title": "My Home My Dorm",
+        "category": "Film",
+        "lastUpdated": "2022-06-15",
+        "period": "June 2022",
+        "role": "Director",
+        "image": "/images/creative/film-mydorm.jpg",
+        "short": "A short film that tells the story of the digital spirit of community during the COVID-19 pandemic.",
+        "description": "Directed a short film that addresses the theme of community collaboration in the digital era during the COVID-19 pandemic. The film explores how technology can unite people even when physically apart.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" },
+        { "name": "Lightroom", "logo": "/images/tech/adobe-lightroom.svg" },
+        { "name": "Audition", "logo": "/images/tech/adobe-audition.svg" }
+        ],
+        "skills": ["Directing", "Videography", "Storytelling", "Video Editing"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtu.be/N3-dng926xM?si=UgwHrZaInz4zY2eB" }
+        }
+    },
+    {
+        "id": "logo-pca",
+        "title": "PCA Program Logo",
+        "category": "Logo",
+        "lastUpdated": "2022-06-20",
+        "period": "June 2022",
+        "role": "Illustrator",
+        "image": "/images/creative/logo-pca.jpg",
+        "short": "Logo for the 'Program Cinta Almamater' (PCA), the new student orientation program at IT Del.",
+        "description": "Created the logo for the 'Program Cinta Almamater' (PCA), which is the orientation program for new students at IT Del. Each element in the logo was designed to represent the values and spirit of the program.",
+        "tools": [
+        { "name": "Illustrator", "logo": "/images/tech/adobe-illustrator.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Illustrator", "Logo Design", "Graphic Design"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "video-prd",
+        "title": "PRD Bridge 3D Model",
+        "category": "Video",
+        "lastUpdated": "2022-03-31",
+        "period": "March 2022",
+        "role": "3D Modeling",
+        "image": "/images/creative/video-prd.png",
+        "short": "A 3D model of a bridge designed in SketchUp, presented as a keyframe animation video.",
+        "description": "Designed a detailed 3D model of a bridge using SketchUp. The final output is a video showcasing the design through keyframe animation, demonstrating the structure and aesthetics of the model.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["3D Modeling", "Animation", "Motion Graphics", "Graphic Design"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "logo-if21",
+        "title": "IF21 Class Logo",
+        "category": "Logo",
+        "lastUpdated": "2022-03-05",
+        "period": "March 2022",
+        "role": "Illustrator",
+        "image": "/images/creative/logo-bandar.jpg",
+        "short": "Class logo for the 2021 Informatics Engineering batch at IT Del, with philosophy in every element.",
+        "description": "Designed the identity logo for the 2021 batch of the Informatics Engineering study program (IF21) at IT Del. The logo was created with deep philosophical meaning in each of its elements to represent the spirit and unity of the class.",
+        "tools": [
+        { "name": "Illustrator", "logo": "/images/tech/adobe-illustrator.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Illustrator", "Logo Design", "Graphic Design"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "video-penolongyangsetia",
+        "title": "Penolong Yang Setia - Music Video Cover",
+        "category": "Video",
+        "lastUpdated": "2021-12-31",
+        "period": "December 2021",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-penolongyangsetia.jpg",
+        "short": "A music video cover of the song 'Penolong Yang Setia' for a Spiritual Music Festival competition.",
+        "description": "Produced a music video for a cover of the song 'Penolong Yang Setia'. This project was an entry for a Spiritual Music Festival competition, focusing on creating visuals that complement the song's message.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Video Editing", "Graphic Design", "Audio Mixing"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "video-kitabisa",
+        "title": "Kita Bisa - Music Video",
+        "category": "Video",
+        "lastUpdated": "2021-06-30",
+        "period": "June 2021",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-kitabisa.jpg",
+        "short": "A music video for the song 'Kita Bisa' which won 1st place in the Gebyar Suara Rajawali (Gesura) 2021 competition.",
+        "description": "Served as the cinematographer for a music video entry for the 'Gebyar Suara Rajawali (Gesura) 2021' competition. The video, set to the song 'Kita Bisa', successfully won first place in the competition.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "Competition"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "video-happily",
+        "title": "Happily - Graduation After Movie",
+        "category": "Video",
+        "lastUpdated": "2021-04-30",
+        "period": "April 2021",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-happily.jpg",
+        "short": "A cinematic after-movie for the Graduation Day of the Budi Mulia Pematangsiantar High School Class of 2021.",
+        "description": "Created a cinematic after-movie to commemorate the Graduation Day for the Class of 2021 at Budi Mulia Pematangsiantar High School, capturing the memorable moments of the event.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "After Movie"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "video-sumpahpemuda",
+        "title": "Sumpah Pemuda - Music Video",
+        "category": "Video",
+        "lastUpdated": "2020-10-28",
+        "period": "October 2020",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-sumpahpemuda.jpg",
+        "short": "A music video cover of the 'Sumpah Pemuda' song, presented as a musical poetry visualization.",
+        "description": "Produced a music video cover for the 'Sumpah Pemuda' song, interpreting the lyrics through a musical poetry format. Responsible for the cinematography to create visuals that matched the song's historical and patriotic tone.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "Audio Mixing"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "terbang-bersama-boemi",
+        "title": "Terbang Bersama Boemi",
+        "category": "Film",
+        "lastUpdated": "2020-04-20",
+        "period": "April 2020",
+        "role": "Cinematographer",
+        "image": "/images/creative/film-boemi.jpg",
+        "short": "A film adaptation of a musical theater arts performance from Budi Mulia Pematangsiantar High School.",
+        "description": "Acted as the cinematographer in the film adaptation project of a school musical theater performance. Responsibilities included camera work, visual composition, and lighting to translate the stage performance into a cinematic language.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" },
+        { "name": "Lightroom", "logo": "/images/tech/adobe-lightroom.svg" },
+        { "name": "Audition", "logo": "/images/tech/adobe-audition.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Lighting", "Graphic Design"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtu.be/xkhg-MdJBDM?si=dxaV5sPm9vFETZxQ" }
+        }
+    },
+    {
+        "id": "video-senam20",
+        "title": "Final Gymnastics BM'20",
+        "category": "Video",
+        "lastUpdated": "2020-04-15",
+        "period": "April 2020",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-senam20.jpg",
+        "short": "A cinematic after-movie of the final gymnastics performance for the Class of 2020 at Budi Mulia High School.",
+        "description": "Created a cinematic after-movie capturing the final mass gymnastics event for the Class of 2020 at Budi Mulia Pematangsiantar High School, a cherished school tradition.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "After Movie"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "video-genitrix",
+        "title": "Genitrix Goes to Berastagi",
+        "category": "Video",
+        "lastUpdated": "2020-01-20",
+        "period": "January 2020",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-genitrix.jpg",
+        "short": "A cinematic after-movie documenting a 3-day class trip to Sipiso-piso waterfall and Berastagi.",
+        "description": "Documented a three-day class trip for 'Genitrix' (X IPA 3) to Sipiso-piso and Berastagi. The final output is a cinematic after-movie that captures the highlights and memorable moments of the journey.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "Travel Video"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "the-other-side",
+        "title": "The Other Side of Myself",
+        "category": "Film",
+        "lastUpdated": "2019-06-14",
+        "period": "June 2019",
+        "role": "Editor",
+        "image": "/images/creative/film-theotherside.jpg",
+        "short": "A high school project short film about a person with two conflicting personalities.",
+        "description": "Served as the editor for a high school short film project. This project explored the concept of personality duality within a single individual, with editing challenges focused on visually and narratively distinguishing the two characters.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" },
+        { "name": "Audition", "logo": "/images/tech/adobe-audition.svg" }
+        ],
+        "skills": ["Video Editing", "Graphic Design", "Audio Mixing"],
+        "links": { "primary": null }
+    },
+    {
+        "id": "video-senam19",
+        "title": "Final Gymnastics BM'19",
+        "category": "Video",
+        "lastUpdated": "2019-04-15",
+        "period": "April 2019",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-senam19.jpg",
+        "short": "A cinematic after-movie of the final gymnastics performance for the Class of 2019 at Budi Mulia High School.",
+        "description": "Created a cinematic after-movie capturing the final mass gymnastics event for the Class of 2019 at Budi Mulia Pematangsiantar High School, preserving the memory of this school tradition.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "After Movie"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "video-bmfarewell",
+        "title": "Farewell After Movie",
+        "category": "Video",
+        "lastUpdated": "2019-03-20",
+        "period": "March 2019",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-bmfarewell.jpg",
+        "short": "A cinematic after-movie for the Farewell Event of the Class of 2019 at Budi Mulia High School.",
+        "description": "Produced a cinematic after-movie for the farewell ceremony of the Class of 2019 at Budi Mulia Pematangsiantar High School, capturing the emotional and celebratory moments of the event.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design", "Event Videography"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "video-bm60th",
+        "title": "60th Anniversary Greetings",
+        "category": "Video",
+        "lastUpdated": "2018-11-25",
+        "period": "November 2018",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-bm60th.jpg",
+        "short": "A greetings video for the 60th anniversary of Budi Mulia Pematangsiantar High School.",
+        "description": "Filmed and produced a video containing greetings and well wishes for the 60th anniversary of Budi Mulia Pematangsiantar High School, featuring students and faculty.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Graphic Design"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
+        }
+    },
+    {
+        "id": "video-megalithicum",
+        "title": "Megalithicum Illustration Video",
+        "category": "Video",
+        "lastUpdated": "2018-10-15",
+        "period": "October 2018",
+        "role": "Cinematographer",
+        "image": "/images/creative/video-megalithicum.jpg",
+        "short": "A short video illustrating the Megalithic era as a school history project.",
+        "description": "Created a short educational video to illustrate the Megalithic era for a history class project, using visuals and narration to explain the key characteristics of the period.",
+        "tools": [
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
+        ],
+        "skills": ["Cinematography", "Videography", "Educational Content"],
+        "links": {
+        "primary": { "label": "Watch on YouTube", "url": "https://youtube.com/@archicosembiring" }
         }
     }
 ]
