@@ -8,7 +8,7 @@ Selamat datang di repositori Mercusuar, proyek website portofolio pribadi saya. 
 
 Website ini dibangun dari awal menggunakan Next.js (App Router) dan dirancang untuk menjadi platform yang cepat, modern, dan sepenuhnya dapat disesuaikan.
 
-**[➡️ Kunjungi Live Demo](https://archicos.vercel.app/)** *(ganti dengan URL Anda nanti)*
+**[➡️ Kunjungi Live Demo](https://archicos.vercel.app/)**
 
 ---
 
@@ -65,6 +65,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di mesin lokal Anda.
 ## 📁 Struktur Folder
 
 Proyek ini menggunakan struktur standar Next.js App Router untuk organisasi yang rapi dan skalabel.
+
+/
 ├── public/                 # Aset statis (gambar, font, CV)
 ├── src/
 │   ├── app/                # Semua rute halaman (App Router)
