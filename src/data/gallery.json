@@ -1,70 +1,223 @@
 [
     {
-        "id": "g1",
-        "title": "Sunset at Lake Toba",
-        "dateTaken": "2025-07-15",
+        "id": "bundaran-hi",
+        "title": "Bundaran HI",
+        "dateTaken": "2023-08-08",
         "photographer": "Archico Sembiring",
-        "location": "Lake Toba, North Sumatra",
-        "locationLink": "https://www.google.com/maps/place/Lake+Toba/",
-        "image": "/images/gallery/toba.jpg",
-        "description": "Capturing the serene moment as the sun sets over the vast expanse of Lake Toba, casting a warm, golden glow across the water.",
+        "location": "Bundaran HI, Jakarta",
+        "locationLink": "https://maps.google.com/?q=Bundaran+HI,Jakarta",
+        "image": "/images/gallery/bundaranhi.jpg",
+        "description": "The iconic Bundaran HI roundabout stands as a symbol of Jakarta's bustling urban energy.",
         "exif": {
-        "model": "Sony A7 III",
-        "lens": "FE 24-70mm f/2.8 GM",
-        "aperture": "f/8",
-        "shutterSpeed": "1/125s",
-        "iso": 100
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
         }
     },
     {
-        "id": "g2",
-        "title": "Jakarta's Urban Veins",
-        "dateTaken": "2025-05-20",
+        "id": "galeri-indonesia-kaya",
+        "title": "Galeri Indonesia Kaya",
+        "dateTaken": "2023-08-08",
         "photographer": "Archico Sembiring",
-        "location": "Jakarta, Indonesia",
-        "locationLink": "https://www.google.com/maps/place/Jakarta/",
-        "image": "/images/gallery/jakarta.jpg",
-        "description": "A long-exposure shot of Jakarta's main thoroughfare at night, transforming traffic into vibrant trails of light against the city skyline.",
+        "location": "Grand Indonesia Mall, Jakarta",
+        "locationLink": "https://maps.google.com/?q=Grand+Indonesia,Jakarta",
+        "image": "/images/gallery/galeri-indonesia.jpg",
+        "description": "An artistic installation at Galeri Indonesia Kaya, blending modern design with cultural heritage.",
         "exif": {
-        "model": "Fujifilm X-T4",
-        "lens": "XF 16-55mm f/2.8 R LM WR",
-        "aperture": "f/11",
-        "shutterSpeed": "15s",
-        "iso": 200
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
         }
     },
     {
-        "id": "g3",
-        "title": "Misty Hills of Berastagi",
-        "dateTaken": "2025-03-02",
+        "id": "isi-yogyakarta",
+        "title": "Institut Seni Indonesia",
+        "dateTaken": "2023-08-03",
         "photographer": "Archico Sembiring",
-        "location": "Berastagi, North Sumatra",
-        "locationLink": "https://www.google.com/maps/place/Berastagi/",
-        "image": "/images/gallery/berastagi.jpg",
-        "description": "The lush green hills of Berastagi enveloped in a soft morning mist, creating a tranquil and ethereal landscape.",
+        "location": "Institut Seni Indonesia, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Institut+Seni+Indonesia,Yogyakarta",
+        "image": "/images/gallery/isi.jpg",
+        "description": "Capturing the creative and academic atmosphere at the Indonesian Institute of the Arts in Yogyakarta.",
         "exif": {
-        "model": "Sony A7 III",
-        "lens": "FE 70-200mm f/4 G OSS",
-        "aperture": "f/5.6",
-        "shutterSpeed": "1/250s",
-        "iso": 400
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
         }
     },
     {
-        "id": "g4",
-        "title": "Harbor Dusk",
-        "dateTaken": "2024-11-10",
+        "id": "warm-inside-cold-outside",
+        "title": "Warm Inside, Cold Outside",
+        "dateTaken": "2022-12-28",
         "photographer": "Archico Sembiring",
-        "location": "Belawan, Medan",
-        "locationLink": "https://www.google.com/maps/place/Belawan/",
-        "image": "/images/gallery/belawan.jpg",
-        "description": "Fishing boats rest in the calm waters of Belawan harbor as the twilight sky reflects a palette of soft, warm colors.",
+        "location": "Balige, North Sumatra",
+        "locationLink": "https://maps.google.com/?q=Balige,North+Sumatra",
+        "image": "/images/gallery/jendela-malam.jpg",
+        "description": "A cozy view from a window on a cold night in Balige, creating a contrast between inner warmth and the dark outdoors.",
         "exif": {
-        "model": "Fujifilm X-T4",
-        "lens": "XF 35mm f/1.4 R",
-        "aperture": "f/2.0",
-        "shutterSpeed": "1/100s",
-        "iso": 800
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "berdansalah",
+        "title": "Berdansalah",
+        "dateTaken": "2022-12-28",
+        "photographer": "Archico Sembiring",
+        "location": "Bundaran HI, Jakarta",
+        "locationLink": "https://maps.google.com/?q=Bundaran+HI,Jakarta",
+        "image": "/images/gallery/jogetin.jpg",
+        "description": "A silhouette dances freely against the evening backdrop of Bundaran HI, embodying the spirit of joy amidst the city's hustle.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "malioboro",
+        "title": "Malioboro",
+        "dateTaken": "2022-08-16",
+        "photographer": "Archico Sembiring",
+        "location": "Malioboro, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Malioboro,Yogyakarta",
+        "image": "/images/gallery/malioboro.jpg",
+        "description": "The vibrant and historic Malioboro street in Yogyakarta, bustling with life and local culture.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "jogja-sunset",
+        "title": "Sunset in Jogja",
+        "dateTaken": "2022-08-03",
+        "photographer": "Archico Sembiring",
+        "location": "Parangtritis Beach, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Parangtritis+Beach,Yogyakarta",
+        "image": "/images/gallery/jogja-sunset.jpg",
+        "description": "The sun dips below the horizon at a Yogyakarta beach, painting the sky in fiery colors.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "parangtritis-beach",
+        "title": "Parangtritis Beach",
+        "dateTaken": "2022-08-03",
+        "photographer": "Archico Sembiring",
+        "location": "Parangtritis Beach, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Parangtritis+Beach,Yogyakarta",
+        "image": "/images/gallery/parangtritis-beach.jpg",
+        "description": "The expansive shoreline and powerful waves of Parangtritis Beach under a clear sky.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "parangtritis-sunset",
+        "title": "Sunset in Parangtritis",
+        "dateTaken": "2022-08-03",
+        "photographer": "Archico Sembiring",
+        "location": "Parangtritis Beach, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Parangtritis+Beach,Yogyakarta",
+        "image": "/images/gallery/parangtritis-sunset.jpg",
+        "description": "A serene sunset captured at Parangtritis Beach, with golden light reflecting on the wet sand.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "prambanan-temple",
+        "title": "Prambanan Temple",
+        "dateTaken": "2022-08-02",
+        "photographer": "Archico Sembiring",
+        "location": "Prambanan Temple, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Prambanan+Temple,Yogyakarta",
+        "image": "/images/gallery/prambanan-outdoor.jpg",
+        "description": "The magnificent and intricate architecture of Prambanan Temple standing tall against the sky.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "prambanan-sunset",
+        "title": "Prambanan Sunset",
+        "dateTaken": "2022-08-02",
+        "photographer": "Archico Sembiring",
+        "location": "Prambanan Temple, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Prambanan+Temple,Yogyakarta",
+        "image": "/images/gallery/prambanan-sunset.jpg",
+        "description": "Silhouettes of Prambanan Temple's spires are etched against a dramatic sunset sky.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "gadjah-mada",
+        "title": "Gadjah Mada",
+        "dateTaken": "2022-07-30",
+        "photographer": "Archico Sembiring",
+        "location": "Universitas Gadjah Mada, Yogyakarta",
+        "locationLink": "https://maps.google.com/?q=Universitas+Gadjah+Mada,Yogyakarta",
+        "image": "/images/gallery/ugm.jpg",
+        "description": "A memorable moment at Gadjah Mada University, marking the beginning of a new student's journey.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
+        }
+    },
+    {
+        "id": "grafitti-wall",
+        "title": "Grafitti Wall",
+        "dateTaken": "2021-05-24",
+        "photographer": "Archico Sembiring",
+        "location": "Pematangsiantar, North Sumatra",
+        "locationLink": "https://maps.google.com/?q=Pematangsiantar",
+        "image": "/images/gallery/grafitti.jpg",
+        "description": "A striking composition where the cool blue tones of a graffiti wall harmonize with a monochrome outfit.",
+        "exif": {
+        "model": "Realme 3",
+        "lens": "-",
+        "aperture": "-",
+        "shutterSpeed": "-",
+        "iso": "-"
         }
     }
 ]

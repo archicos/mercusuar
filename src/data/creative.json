@@ -11,7 +11,7 @@
         "description": "Pengembangan identitas merek untuk proyek 'Mercusuar' dari awal. Prosesnya mencakup riset, pembuatan mood board, desain logo utama, pemilihan tipografi, serta penentuan palet warna primer (Teal) dan sekunder (Slate) untuk memastikan konsistensi di semua platform.",
         "tools": [
         { "name": "Figma", "logo": "/images/tech/figma.svg" },
-        { "name": "Photoshop", "logo": "/images/tech/photoshop.svg" }
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" }
         ],
         "skills": ["Brand Identity", "Logo Design", "UI/UX Principles"],
         "links": {
@@ -29,7 +29,7 @@
         "short": "Video sinematik pendek yang menangkap keindahan alam dan budaya Bali, dengan fokus pada color grading dan sound design.",
         "description": "Proyek video perjalanan pribadi yang direkam selama seminggu di Bali. Proses pasca-produksi meliputi penyuntingan video, color grading dengan DaVinci Resolve untuk menciptakan mood sinematik, serta sound design untuk membangun atmosfer yang imersif.",
         "tools": [
-        { "name": "Premiere Pro", "logo": "/images/tech/premiere.svg" },
+        { "name": "Premiere Pro", "logo": "/images/tech/adobe-premiere.svg" },
         { "name": "DaVinci Resolve", "logo": "/images/tech/davinci.svg" }
         ],
         "skills": ["Cinematography", "Color Grading", "Sound Design"],
@@ -48,8 +48,8 @@
         "short": "Desain poster untuk acara konferensi teknologi fiktif, menggabungkan elemen futuristik dengan tipografi yang kuat.",
         "description": "Desain poster promosi untuk acara 'Innovate Summit 2025'. Konsepnya adalah untuk menarik audiens muda di bidang teknologi dengan visual yang dinamis, palet warna neon, dan komposisi yang berani.",
         "tools": [
-        { "name": "Photoshop", "logo": "/images/tech/photoshop.svg" },
-        { "name": "Illustrator", "logo": "/images/tech/illustrator.svg" }
+        { "name": "Photoshop", "logo": "/images/tech/adobe-photoshop.svg" },
+        { "name": "Illustrator", "logo": "/images/tech/adobe-illustrator.svg" }
         ],
         "skills": ["Graphic Design", "Typography", "Visual Hierarchy"],
         "links": {

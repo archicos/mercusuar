@@ -4,8 +4,8 @@
     "summary": "A final-year Informatics student with a deep interest in Software Engineering. Experienced in building full-stack applications and currently exploring machine learning.",
     "cvPath": "/path/to/your/resume.pdf",
     "jumbotronSlides": [
-        { "image": "/images/home/jumbotron1.jpg", "caption": "Developing modern web solutions." },
-        { "image": "/images/home/jumbotron2.png", "caption": "Passionate about mobile technology." },
+        { "image": "/images/home/jumbotron1.jpg", "caption": "Current Work: Levelearn" },
+        { "image": "/images/home/jumbotron2.png", "caption": "Recent Work: Bachelors of Informatics" },
         { "image": "/images/home/jumbotron3.jpg", "caption": "Exploring the world through photography." }
     ],
     "location": "Jakarta, Indonesia",
@@ -15,15 +15,15 @@
     },
     "education": [
         {
-        "degree": "Bachelor of Informatics (B.Comp.Sc.)",
+        "degree": "Bachelor of Informatics (B.Cs.)",
         "logo": "/images/home/logo-itdel.png",
-        "institution": "Del Institute of Technology",
-        "period": "August 2021 — June 2025 (Expected)",
+        "institution": "Institut Teknologi Del",
+        "period": "August 2021 — June 2025",
         "details": [
-            "Current GPA: 3.82/4.00 (155 credits)",
-            "Top 3 Most Outstanding Student of Del Institute of Technology",
-            "Recipient of High Academic Performance Scholarship",
-            "Lecturer Assistant for Basic Programming course"
+            "GPA: 3.82/4.00 (155 credits)",
+            "Top 3 Most Outstanding Student of Institut Teknologi Del",
+            "Awardee of High Academic Performance Scholarship",
+            "Lecturer Academic Assistant for Basic Programming"
         ],
         "organization": "Ministry of Communication and Information, Student Executive Board (BEM)",
         "relevantCourses": [
@@ -54,8 +54,8 @@
                 "Collaborated with product and design teams to translate business needs into efficient technical solutions.",
                 "Implemented new features and fixed bugs on internal applications using modern technologies."
             ],
-            "skills": ["Kotlin", "Go (Golang)", "GCP", "Agile"],
-            "link": "https://www.telkomsel.com"
+            "skills": ["Software Engineering", "React Native", "Expo", "Nest.js", "RPA"],
+            "link": "https://www.linkedin.com/posts/archico_troopers-activity-7358183604478226435-T986?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZHHjQBSezz6CHgiXjGoK0L5ZeONqp2T5g"
             },
             {
             "role": "Software Engineer Intern",
@@ -69,37 +69,81 @@
                 "Developed several mobile applications for aviation needs, including a Training Simulator and Electronic Flight Bag.",
                 "Utilized Flutter for front-end development and Firebase as a back-end service."
             ],
-            "skills": ["Flutter", "Firebase", "Dart", "UI/UX Design"],
-            "link": "https://www.airasia.com"
+            "skills": ["SDLC", "Mobile App Development", "Flutter", "Firebase", "Google Workspace"],
+            "link": "https://www.linkedin.com/posts/archico_allstars-activity-7268084675498127361-m9fs?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZHHjQBSezz6CHgiXjGoK0L5ZeONqp2T5g"
         },
         {
             "role": "Mobile Development Cohort",
             "company": "Bangkit Academy led by Google, GoTo, Traveloka",
             "logo": "/images/home/logo-bangkit.jpg",
             "period": "February 2024 — July 2024",
-            "location": "Bandung, West Java",
+            "location": "Remote",
             "locationLink": "https://maps.app.goo.gl/PjiSy9sJ136vSZnj9",
             "details": [
                 "Completed an intensive study program in the Mobile Development learning path (Android with Kotlin).",
                 "Developed a final capstone project in a multi-disciplinary team (Mobile, Cloud, Machine Learning).",
                 "Earned soft skills certification in communication, leadership, and critical thinking."
             ],
-            "skills": ["Kotlin", "Android Studio", "Jetpack Compose", "Git"],
-            "link": "https://www.airasia.com"
+            "skills": ["SDLC", "Mobile App Development", "Kotlin", "Android Studio", "Jetpack Compose", "Git"],
+            "link": "https://www.linkedin.com/posts/archico_lifeatbangkit-milestone-3-activity-7206701975911018498-hF8Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZHHjQBSezz6CHgiXjGoK0L5ZeONqp2T5g"
+        },
+        {
+            "role": "Mobile Development Core Team",
+            "company": "Google Developer Students Club",
+            "logo": "/images/home/logo-bangkit.jpg",
+            "period": "September 2023 — September 2024",
+            "location": "Remote",
+            "locationLink": "https://maps.app.goo.gl/LsVJvLAguW92P3kG7",
+            "details": [
+                "Expanding networking and relationships by collaborating with other GDSC communities from universities throughout the nation and successfully presenting speakers from DANA software engineers.",
+                "Building communication and public speaking skills by holding info sessions and tech talks and successfully holding info sessions from Bangkit Academy by Google.",
+                "Develop Google-based software engineering capabilities by participating in the Juara Android, Bangkit Academy and Google Cloud Arcade program by Google." 
+            ],
+            "skills": ["Android Studio","Kotlin", "Jetpack Compose", "Google Workspace"],
+            "link": "https://developers.google.com/community"
+        },
+        {
+            "role": "ICStar Hackathon 2023",
+            "company": "PT. Orbit Nasional Edukasi (ONE) Indonesia",
+            "logo": "/images/home/logo-bangkit.jpg",
+            "period": "Juni 2023 — November 2023",
+            "location": "Remote",
+            "locationLink": "https://maps.app.goo.gl/aoejdYeiDkczbGoi7",
+            "details": [
+                "Developed Robot Processing Automation (RPA) capabilities by undergoing 3 months of training on AI, Java Fullstack, and RPA, and succeeded in building RPA using IBM RPA Studio to manage talent review at PT. IDStar Cipta Teknologi, which increases the efficiency of the talent review process by 20%."
+            ],
+            "skills": ["Java Spring", "IBM RPA Studio", "Machine Learning"],
+            "link": "https://www.linkedin.com/posts/archico_%F0%9D%97%9C%F0%9D%97%96%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A5-%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%96%F0%9D%97%94%F0%9D%97%9E%F0%9D%97%A7%F0%9D%97%9B%F0%9D%97%A2%F0%9D%97%A1-%F0%9D%9F%AE%F0%9D%9F%AC%F0%9D%9F%AE%F0%9D%9F%AF-activity-7161800605504667648-ELK6?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZHHjQBSezz6CHgiXjGoK0L5ZeONqp2T5g"
         }
     ],
     "techStacks": [
-        { "name": "Go (Golang)", "logo": "/images/tech/golang.svg" },
         { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
-        { "name": "Next.js", "logo": "/images/tech/nextjs.svg" },
+        { "name": "Compose", "logo": "/images/tech/jetpackcompose.svg" },
         { "name": "Flutter", "logo": "/images/tech/flutter.svg" },
         { "name": "React", "logo": "/images/tech/react.svg" },
+        { "name": "Next.js", "logo": "/images/tech/nextjs.svg" },
+        { "name": "Nest.js", "logo": "/images/tech/nestjs.svg" },
+        { "name": "Node.js", "logo": "/images/tech/nodejs.svg" },
+        { "name": "Laravel", "logo": "/images/tech/laravel.svg" },
+        { "name": "Python", "logo": "/images/tech/python.svg" },
+        { "name": "Java", "logo": "/images/tech/java.svg" },
+        { "name": "Docker", "logo": "/images/tech/docker.svg" },
         { "name": "SQL", "logo": "/images/tech/sql.svg" }
     ],
     "competencies": [
-        { "name": "App Development", "icon": "FiSmartphone" },
+        { "name": "SDLC", "icon": "FiGitMerge" },
+        { "name": "Mobile Development", "icon": "FiSmartphone" },
+        { "name": "Web Development", "icon": "FiGlobe" },
+        { "name": "Backend Development", "icon": "FiServer" },
+        { "name": "Machine Learning", "icon": "FiCpu" },
         { "name": "Project Management", "icon": "FiClipboard" },
+        { "name": "Creative Work", "icon": "FiEdit" },
+        { "name": "Cinematography", "icon": "FiVideo" },
+        { "name": "Graphic Design", "icon": "FiLayers" },
+        { "name": "Communication", "icon": "FiMessageSquare" },
+        { "name": "Business Presentation", "icon": "FiBarChart2" },
         { "name": "Public Speaking", "icon": "FiMic" },
+        { "name": "Leadership", "icon": "FiUsers" },
         { "name": "Team Collaboration", "icon": "FiUsers" }
     ],
     "socials": [

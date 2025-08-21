@@ -13,7 +13,7 @@
         { "name": "React Native", "logo": "/images/tech/react.svg" },
         { "name": "Expo", "logo": "/images/tech/expo.svg" },
         { "name": "NestJS", "logo": "/images/tech/nestjs.svg" },
-        { "name": "MySQL", "logo": "/images/tech/mysql.svg" }
+        { "name": "MySQL", "logo": "/images/tech/sql.svg" }
         ],
         "skills": ["Cross-Platform Dev", "API Simulation", "Proof of Concept", "Mobile Architecture"],
         "links": { "github": "https://github.com/archicos", "demo": null }
@@ -49,9 +49,7 @@
         "description": "As part of a 7-member team for the Bangkit Academy capstone, I led the mobile development effort for StuntGuard. The native Android application captures user data and interacts with a machine learning model deployed on Google Cloud to provide early stunting detection analysis. Collaborated closely with the Cloud Computing and Machine Learning teams to ensure seamless API integration and a smooth user experience.",
         "tech": [
         { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
-        { "name": "Android Studio", "logo": "/images/tech/android-studio.svg" },
-        { "name": "Google Cloud", "logo": "/images/tech/gcp.svg" },
-        { "name": "Retrofit", "logo": "/images/tech/retrofit.svg" }
+        { "name": "Android Studio", "logo": "/images/tech/android-studio.svg" }
         ],
         "skills": ["Team Collaboration", "API Integration", "MVVM Architecture", "Agile"],
         "links": { "github": "https://github.com/archicos", "demo": null }
@@ -104,7 +102,7 @@
         "description": "Built an Android application as part of a learning module on implementing on-device machine learning. The app allows users to upload or capture an image, which is then processed by a locally integrated TensorFlow Lite model to provide a preliminary analysis for potential skin cancer.",
         "tech": [
         { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
-        { "name": "TensorFlow Lite", "logo": "/images/tech/tensorflow.svg" }
+        { "name": "Android Studio", "logo": "/images/tech/android-studio.svg" }
         ],
         "skills": ["On-Device ML", "Image Processing", "Android SDK"],
         "links": { "github": "https://github.com/archicos", "demo": null }
@@ -120,8 +118,8 @@
         "short": "A simple yet elegant Android app for searching GitHub users and viewing their profiles using the official GitHub API.",
         "description": "Developed a client application for the public GitHub API. The app features a user search functionality, a list of results, and a detailed view for each user showing their repositories, followers, and following count. This project was a deep dive into consuming complex REST APIs, handling pagination, and displaying data in a user-friendly way.",
         "tech": [
-        { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
-        { "name": "Retrofit", "logo": "/images/tech/retrofit.svg" }
+            { "name": "Kotlin", "logo": "/images/tech/kotlin.svg" },
+            { "name": "Android Studio", "logo": "/images/tech/android-studio.svg" }
         ],
         "skills": ["REST API", "JSON Parsing", "Pagination"],
         "links": { "github": "https://github.com/archicos", "demo": null }
@@ -139,7 +137,7 @@
         "tech": [
         { "name": "PHP", "logo": "/images/tech/php.svg" },
         { "name": "Laravel", "logo": "/images/tech/laravel.svg" },
-        { "name": "MariaDB", "logo": "/images/tech/mariadb.svg" },
+        { "name": "MariaDB", "logo": "/images/tech/sql.svg" },
         { "name": "GitLab", "logo": "/images/tech/gitlab.svg" }
         ],
         "skills": ["Agile Methodologies", "Scrum", "Production Deployment", "Database Management"],

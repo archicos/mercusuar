@@ -1,6 +1,6 @@
 // src/components/ProfileCard.tsx
 import Image from "next/image";
-import { FiGithub, FiLinkedin, FiInstagram, FiMail, FiMapPin, FiDownload } from "react-icons/fi"; // Tambah FiDownload
+import { FiGithub, FiLinkedin, FiInstagram, FiMail, FiMapPin, FiDownload, FiYoutube } from "react-icons/fi"; // Tambah FiDownload
 
 type Social = {
     label: string;
@@ -23,6 +23,7 @@ const iconComponents: Record<string, React.ComponentType<{ size?: number }>> = {
     linkedin: FiLinkedin,
     instagram: FiInstagram,
     mail: FiMail,
+    youtube: FiYoutube
 };
 
 export function ProfileCard({ profile }: { profile: Profile }) {

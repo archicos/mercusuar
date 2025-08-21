@@ -1,4 +1,4 @@
-import { FiSmartphone, FiClipboard, FiMic, FiUsers, FiCpu } from "react-icons/fi";
+import { FiSmartphone, FiClipboard, FiMic, FiUsers, FiCpu, FiBarChart2, FiEdit, FiGitMerge, FiGlobe, FiLayers, FiMessageSquare, FiServer, FiVideo } from "react-icons/fi";
 
 // 1. Definisikan tipe data untuk satu item Competency
 type Competency = {
@@ -8,12 +8,19 @@ type Competency = {
 
 // 2. Buat mapping dari nama ikon (string) ke komponen ikon React
 const iconComponents: Record<string, React.ComponentType<{ size?: number; className?: string }>> = {
+    FiGitMerge: FiGitMerge,
+    FiGlobe: FiGlobe,
     FiSmartphone: FiSmartphone,
-    FiClipboard: FiClipboard,
+    FiServer: FiServer,
+    FiCpu: FiCpu,
+    FiEdit: FiEdit,
+    FiVideo: FiVideo,
+    FiLayers: FiLayers,
+    FiMessageSquare: FiMessageSquare,
+    FiBarChart2: FiBarChart2,
     FiMic: FiMic,
     FiUsers: FiUsers,
-    // Tambahkan fallback icon jika ikon tidak ditemukan
-    Fallback: FiCpu,
+    Fallback: FiCpu, // Ikon default jika ada yang tidak cocok
 };
 
 // ============================================================================
