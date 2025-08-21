@@ -25,7 +25,7 @@
         "lastUpdated": "2025-06-28",
         "period": "Jan 2025 — Jun 2025",
         "role": "Backend & Mobile Developer",
-        "image": "/images/projects/project-levelearn.jpg",
+        "image": "/images/projects/project-levelearn.png",
         "short": "A mobile learning application that enhances user engagement through personalized gamification elements.",
         "description": "Developed a comprehensive mobile learning platform featuring modules for Materials, Assessments, and Assignments. The core of the application is its gamification system, which includes Badges, Levels, Leaderboards, and Points to motivate users. The backend, built with Node.js and Prisma, manages user preferences to deliver a tailored learning experience.",
         "tech": [
@@ -61,7 +61,7 @@
         "lastUpdated": "2024-06-15",
         "period": "Feb 2024 — Jun 2024",
         "role": "Fullstack Developer",
-        "image": "/images/projects/project-frk-fed.jpg",
+        "image": "/images/projects/project-frkfed.jpg",
         "short": "A microservices-based web application for IT Del staff to manage work plans (FRK) and self-evaluations (FED).",
         "description": "Developed a comprehensive, form-based system for academic staff at Del Institute of Technology. The application allows staff to create detailed Work Plans (FRK) at the beginning of a semester and complete Self-Evaluation Forms (FED) at the end, cross-referencing their initial plans. The system was designed with a microservices architecture using Laravel for the frontend and Lumen for backend services to ensure scalability and separation of concerns.",
         "tech": [
@@ -114,7 +114,7 @@
         "lastUpdated": "2024-04-05",
         "period": "Mar 2024 — Apr 2024",
         "role": "Mobile Developer",
-        "image": "/images/projects/project-github-finder.jpg",
+        "image": "/images/projects/project-githubfinder.jpg",
         "short": "A simple yet elegant Android app for searching GitHub users and viewing their profiles using the official GitHub API.",
         "description": "Developed a client application for the public GitHub API. The app features a user search functionality, a list of results, and a detailed view for each user showing their repositories, followers, and following count. This project was a deep dive into consuming complex REST APIs, handling pagination, and displaying data in a user-friendly way.",
         "tech": [
@@ -150,7 +150,7 @@
         "lastUpdated": "2024-02-28",
         "period": "Feb 2024",
         "role": "Mobile Developer",
-        "image": "/images/projects/project-toba-destination.jpg",
+        "image": "/images/projects/project-tobadest.jpg",
         "short": "A simple Android application to showcase a curated list of beautiful tourist destinations around Lake Toba.",
         "description": "A personal project to practice fundamental Android development skills. This app displays a static, curated list of tourist spots in the Toba region, featuring images, descriptions, and locations. It was built using native Kotlin and Android Studio, focusing on creating a clean and simple user interface with RecyclerView.",
         "tech": [
@@ -167,7 +167,7 @@
         "lastUpdated": "2023-10-15",
         "period": "Sep 2023 — Oct 2023",
         "role": "Web Developer",
-        "image": "/images/projects/project-laravel-portfolio.jpg",
+        "image": "/images/projects/project-laravelporto.jpg",
         "short": "An early version of my personal portfolio website, built from scratch using the Laravel framework and Tailwind CSS.",
         "description": "One of my initial forays into web development, this project involved building a complete portfolio site using the TALL stack (Tailwind, Alpine.js, Laravel, Livewire). It features sections for projects, skills, and a contact form, all managed through the Laravel backend and rendered with Blade templates.",
         "tech": [
@@ -176,6 +176,39 @@
         { "name": "PHP", "logo": "/images/tech/php.svg" }
         ],
         "skills": ["MVC", "Blade Templating", "CRUD Operations"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
+    },
+    {
+        "id": "sobat-listrik",
+        "title": "Sobat Listrik",
+        "category": "Mobile",
+        "lastUpdated": "2023-07-31",
+        "period": "Jun 2023 — Jul 2023",
+        "role": "UI/UX Designer",
+        "image": "/images/projects/project-sobatlistrik.jpg",
+        "short": "An early version of my personal portfolio website, built from scratch using the Laravel framework and Tailwind CSS.",
+        "description": "One of my initial forays into web development, this project involved building a complete portfolio site using the TALL stack (Tailwind, Alpine.js, Laravel, Livewire). It features sections for projects, skills, and a contact form, all managed through the Laravel backend and rendered with Blade templates.",
+        "tech": [
+            { "name": "Figma", "logo": "/images/tech/figma.svg" }
+        ],
+        "skills": ["UI/UX"],
+        "links": { "github": "https://github.com/archicos", "demo": null }
+    },
+    {
+        "id": "clicknic",
+        "title": "Clicknic - Clinic Management App",
+        "category": "Web",
+        "lastUpdated": "2022-12-31",
+        "period": "Sep 2022 — Dec 2022",
+        "role": "Fullstack Developer",
+        "image": "/images/projects/project-clicknic.jpg",
+        "short": "An early version of my personal portfolio website, built from scratch using the Laravel framework and Tailwind CSS.",
+        "description": "One of my initial forays into web development, this project involved building a complete portfolio site using the TALL stack (Tailwind, Alpine.js, Laravel, Livewire). It features sections for projects, skills, and a contact form, all managed through the Laravel backend and rendered with Blade templates.",
+        "tech": [
+            { "name": "Java", "logo": "/images/tech/java.svg" },
+            { "name": "SQL", "logo": "/images/tech/sql.svg" }
+        ],
+        "skills": ["Object Oriented Programming (OOP)", "Graphical User Interface (GUI)", "Database Integration"],
         "links": { "github": "https://github.com/archicos", "demo": null }
     }
 ]

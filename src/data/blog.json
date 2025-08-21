@@ -1,27 +1,16 @@
 [
     {
-        "slug": "perjalanan-memulai-karir-software-engineer",
-        "title": "Perjalanan Saya Memulai Karir sebagai Software Engineer",
-        "date": "2025-08-20",
+        "slug": "baris-kode-dan-baris-kata-sebuah-awal",
+        "title": "Baris Kode dan Baris Kata: Sebuah Awal",
+        "date": "2025-08-21",
         "author": "Archico Sembiring",
         "location": "Jakarta, Indonesia",
-        "coverImage": "/images/blog/software-journey.jpg",
-        "excerpt": "Dari bangku kuliah hingga magang pertama, ini adalah cerita tentang bagaimana saya menavigasi tantangan dan pembelajaran di awal karir.",
+        "coverImage": "/images/blog/opening-1.png",
+        "excerpt": "Sebuah pengantar tentang mengapa ada ruang untuk tulisan di tengah portofolio teknis, dan perjalanan untuk memberikan wadah bagi ide-ide yang selama ini hanya singgah sesaat.",
         "images": [
-        "/images/blog/code-on-screen.jpg",
-        "/images/blog/team-discussion.jpg"
+            "/images/blog/opening-2.png",
+            "/images/blog/opening-3.png"
         ],
-        "content": "## Awal Mula Ketertarikan\n\nSemuanya berawal dari rasa penasaran sederhana di semester pertama kuliah. Melihat barisan kode yang bisa berubah menjadi aplikasi fungsional terasa seperti sebuah keajaiban. Mata kuliah **Dasar Pemrograman** menjadi gerbang utama saya. Meskipun awalnya terasa sulit, setiap *bug* yang berhasil saya selesaikan memberikan kepuasan yang luar biasa.\n\n### Proyek Pertama yang Mengubah Segalanya\n\nProyek tugas akhir untuk mata kuliah **Pengembangan Aplikasi Web** adalah titik baliknya. Kami diminta membuat sistem informasi sederhana menggunakan Laravel. Di sinilah saya belajar tentang:\n\n- Arsitektur MVC (Model-View-Controller)\n- Manajemen database dengan Eloquent\n- Proses *deployment* ke server\n\nPengalaman ini membuka mata saya bahwa *software engineering* bukan hanya tentang menulis kode, tapi juga tentang merancang solusi yang efisien dan terstruktur."
-    },
-    {
-        "slug": "belajar-golang-dari-dasar-untuk-backend",
-        "title": "Mengapa Saya Memilih Go (Golang) untuk Backend",
-        "date": "2025-07-10",
-        "author": "Archico Sembiring",
-        "location": "Remote",
-        "coverImage": "/images/blog/golang-logo.jpg",
-        "excerpt": "Alasan di balik keputusan saya untuk mendalami Go untuk pengembangan backend, dari performa, konkurensi, hingga ekosistemnya.",
-        "images": [],
-        "content": "## Mencari Bahasa yang Tepat\n\nSetelah cukup nyaman dengan ekosistem PHP (Laravel) dan JavaScript (Node.js), saya merasa perlu mempelajari bahasa yang menawarkan paradigma berbeda, terutama untuk membangun layanan *backend* yang *scalable*. Pilihan saya jatuh pada **Go (Golang)**.\n\nBeberapa alasan utamanya adalah:\n\n1.  **Performa:** Go adalah bahasa yang di-*compile*, membuatnya jauh lebih cepat dibandingkan bahasa interpretasi seperti PHP atau Python.\n2.  **Konkurensi Sederhana:** Goroutines dan Channels adalah fitur bawaan yang membuat penanganan proses konkuren menjadi sangat elegan dan mudah dipahami.\n3.  **Statically Typed:** Meminimalisir *runtime error* yang sering terjadi pada bahasa *dynamically typed*.\n\nMembuat beberapa *microservices* sederhana menggunakan Go benar-benar memperkuat pemahaman saya tentang bagaimana membangun sistem terdistribusi yang andal."
+        "content": "## Mengapa Ada Blog di Sini?\n\nSelamat datang. Jika Anda sampai di halaman ini, Anda mungkin sedang menjelajahi portofolio saya sebagai seorang *software engineer*. Anda telah melihat barisan proyek, tumpukan teknologi, dan mungkin sudah mendapat gambaran tentang apa yang saya bangun dengan baris-baris kode. Lalu, mungkin muncul sebuah pertanyaan: untuk apa ada blog?\n\nJawaban singkatnya: karena sama seperti kode, cerita juga perlu dibangun. Dan ini adalah ruang yang saya bangun untuk itu.\n\n### Ide yang Tak Pernah Berlabuh\n\nSejak lama, saya memiliki ketertarikan yang mendalam pada cerita. Bukan hanya sebagai penikmat, tetapi juga sebagai penyusun. Ide-ide seringkali datang tanpa diundang, baik melalui sebuah percakapan singkat, pemandangan dari jendela, atau sebuah melodi bisa memantik kerangka narasi di dalam kepala. Namun, terlalu sering ide-ide itu hanya singgah sesaat. Mereka datang, berputar-putar, lalu pergi tanpa pernah sempat saya abadikan. Semuanya hilang begitu saja, ditelan kesibukan atau keraguan untuk menuliskannya.\n\nSaya sering terinspirasi oleh figur-figur publik, baik penulis maupun kreator, yang perjalanannya dimulai dari tulisan-tulisan sederhana. Sebuah ekspresi iseng di platform pribadi, catatan harian, atau pemikiran acak yang dibagikan, perlahan bertumbuh menjadi sesuatu yang lebih besar. Ada yang menjadi artikel terkenal, bahkan tak sedikit yang bermuara menjadi sebuah buku, lalu diadaptasi ke layar lebar. Perjalanan itu terasa begitu ajaib, namun akarnya sangatlah sederhana: **keberanian untuk memulai barisan kata pertama.**\n\n### Menghubungkan Kode dengan Cerita\n\nKeterkaitan ini terasa semakin kuat karena saya juga berkecimpung di dunia videografi dan filmografi, namun selama ini lebih banyak dari sisi teknis, seperti bagaimana sebuah kamera bekerja, bagaimana sebuah *shot* diambil, bagaimana warna diedit. Saya memahami 'bagaimana' sebuah visual diciptakan, tapi saya sadar ada 'mengapa' yang lebih dalam, yaitu cerita di baliknya.\n\nSaya berharap dengan menulis, saya dapat mendalami sisi lain dari medium yang saya cintai. Jika selama ini saya membangun 'arsitektur sistem', kini saya ingin belajar membangun 'arsitektur narasi'. Jika saya terbiasa merancang *user flow* di aplikasi, kini saya ingin merancang alur emosi dalam sebuah cerita.\n\n### Rumah Baru untuk Tulisan\n\nIni bukan pertama kalinya saya mencoba menulis. Saya pernah menuangkan cerita-cerita ekspresif di sudut-sudut internet yang sepi dalam sebuah akun Instagram pribadi yang terkunci, beberapa tulisan di Medium, dan artikel di LinkedIn yang terasa terlalu formal. Masing-masing adalah eksperimen yang berharga, namun rasanya seperti menumpang di rumah orang lain.\n\nKali ini, saya ingin berbeda. Dengan membuat blog ini di *website* yang saya bangun sendiri, saya merasa sedang membangun sebuah 'rumah' yang sesungguhnya untuk tulisan-tulisan saya. Sebuah tempat di mana saya bisa mengatur sendiri tata letaknya, warnanya, dan yang terpenting, memiliki sepenuhnya setiap kata yang tertuang.\n\nJadi, inilah awal mulanya. Sebuah ruang untuk ide-ide yang akhirnya menemukan tempat berlabuh. Entah apa yang akan tertulis di sini selanjutnya, mungkin tentang teknologi, proses kreatif, fotografi, atau sekadar observasi acak tentang kehidupan. Apapun itu, saya senang Anda ada di sini untuk menyaksikannya. Selamat membaca."
     }
 ]
