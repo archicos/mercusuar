@@ -1,11 +1,12 @@
 {
     "name": "Archico Darius Simpar Sembiring",
     "title": "Software Engineer | Bachelor of Informatics",
-    "summary": "A final-year Informatics student with a deep interest in Software Engineering. Experienced in building desktop, web, and mobile applications, and currently exploring machine learning. Actively developing communication, collaboration, and leadership skills through organizational involvement.",
+    "summary": "A final-year Informatics student with a deep interest in Software Engineering. Experienced in building full-stack applications and currently exploring machine learning.",
+    "cvPath": "/path/to/your/resume.pdf",
     "jumbotronSlides": [
-        { "image": "/images/jumbotron1.png", "caption": "Developing modern web solutions." },
-        { "image": "/images/jumbotron2.png", "caption": "Passionate about mobile technology." },
-        { "image": "/images/jumbotron3.png", "caption": "Exploring the world through photography." }
+        { "image": "/images/home/jumbotron1.jpg", "caption": "Developing modern web solutions." },
+        { "image": "/images/home/jumbotron2.png", "caption": "Passionate about mobile technology." },
+        { "image": "/images/home/jumbotron3.jpg", "caption": "Exploring the world through photography." }
     ],
     "location": "Jakarta, Indonesia",
     "contact": {
@@ -46,6 +47,8 @@
             "company": "Telkomsel",
             "logo": "/images/home/logo-tsel.png",
             "period": "September 2024 — December 2024",
+            "location": "South Jakarta, Indonesia",
+            "locationLink": "https://maps.app.goo.gl/J9sYqB8CGr6ycZ1i7",
             "details": [
                 "Contributed to the development and maintenance of digital applications to enhance customer experience.",
                 "Collaborated with product and design teams to translate business needs into efficient technical solutions.",
@@ -53,15 +56,17 @@
             ],
             "skills": ["Kotlin", "Go (Golang)", "GCP", "Agile"],
             "link": "https://www.telkomsel.com"
-        },
-        {
+            },
+            {
             "role": "Software Engineer Intern",
             "company": "PT Indonesia AirAsia",
             "logo": "/images/home/logo-iaa.png",
             "period": "June 2024 — August 2024",
+            "location": "Tangerang, Banten",
+            "locationLink": "https://maps.app.goo.gl/NhyrAkb4ZEdfp4in9",
             "details": [
                 "Collaborated with pilots, cabin crew, and flight staff to analyze application requirements.",
-                "Developed several mobile applications for aviation needs, including a Training Simulator, Electronic Flight Bag, Weight & Balance, and Attendance System.",
+                "Developed several mobile applications for aviation needs, including a Training Simulator and Electronic Flight Bag.",
                 "Utilized Flutter for front-end development and Firebase as a back-end service."
             ],
             "skills": ["Flutter", "Firebase", "Dart", "UI/UX Design"],
@@ -72,6 +77,8 @@
             "company": "Bangkit Academy led by Google, GoTo, Traveloka",
             "logo": "/images/home/logo-bangkit.jpg",
             "period": "February 2024 — July 2024",
+            "location": "Bandung, West Java",
+            "locationLink": "https://maps.app.goo.gl/PjiSy9sJ136vSZnj9",
             "details": [
                 "Completed an intensive study program in the Mobile Development learning path (Android with Kotlin).",
                 "Developed a final capstone project in a multi-disciplinary team (Mobile, Cloud, Machine Learning).",

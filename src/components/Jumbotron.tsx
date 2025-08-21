@@ -28,6 +28,8 @@ const NavButton: React.FC<{ onClick: () => void; isPrev?: boolean }> = ({ onClic
 );
 
 export function Jumbotron({ slides }: JumbotronProps) {
+    console.log("Slides received by Jumbotron:", slides);
+    
     const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true });
     const [selectedIndex, setSelectedIndex] = useState(0);
 
@@ -51,7 +53,7 @@ export function Jumbotron({ slides }: JumbotronProps) {
         <div className="overflow-hidden rounded-2xl" ref={emblaRef}>
             <div className="flex">
             {slides.map((slide, index) => (
-                <div className="relative flex-[0_0_100%] aspect-video" key={index}>
+                <div className="relative flex-[0_0_100%] pt-[56.25%]" key={index}>
                 <Image
                     src={slide.image}
                     alt={slide.caption}

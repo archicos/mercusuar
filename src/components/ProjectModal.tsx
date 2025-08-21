@@ -3,11 +3,16 @@
 import { useState } from "react";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { FiExternalLink, FiGithub, FiInfo, FiCode, FiAward, FiCalendar, FiMaximize, FiX } from "react-icons/fi";
+import { 
+    FiExternalLink, FiGithub, FiInfo, FiCode, FiAward, FiCalendar, FiMaximize, FiX, FiUser, FiClock 
+} from "react-icons/fi";
 import type { Project } from "@/app/projects/page";
-import Modal from "@/components/Modal"; // Komponen Modal generik
+import Modal from "@/components/Modal";
+import type { IconType } from "react-icons"; // <-- Impor tipe IconType
 
-const skillIcons = {
+// --- PERUBAHAN DI SINI: Tambahkan tipe [key: string] pada objek ---
+// Ini memberitahu TypeScript bahwa kita bisa menggunakan string apa pun sebagai kunci.
+const skillIcons: { [key: string]: IconType } = {
     "System Integration": FiCode,
     "Authentication": FiCode,
     "Data Modeling": FiCode,
@@ -21,8 +26,42 @@ const skillIcons = {
     "API Gateway": FiCode,
     "API Integration": FiCode,
     "MVVM": FiAward,
-    "Default": FiAward
+    "Cross-Platform Dev": FiCode,
+    "API Simulation": FiCode,
+    "Proof of Concept": FiAward,
+    "Mobile Architecture": FiAward,
+    "Gamification": FiAward,
+    "REST API Design": FiCode,
+    "Full-stack Development": FiCode,
+    "User Engagement": FiAward,
+    "Team Collaboration": FiAward,
+    "MVVM Architecture": FiAward,
+    "Agile": FiAward,
+    "Monorepo": FiCode,
+    "Form Handling": FiCode,
+    "Public API": FiCode,
+    "Data Fetching": FiCode,
+    "UI/UX": FiAward,
+    "Clean Architecture": FiAward,
+    "On-Device ML": FiCode,
+    "Image Processing": FiCode,
+    "Android SDK": FiCode,
+    "REST API": FiCode,
+    "JSON Parsing": FiCode,
+    "Pagination": FiCode,
+    "Agile Methodologies": FiAward,
+    "Scrum": FiAward,
+    "Production Deployment": FiCode,
+    "Database Management": FiCode,
+    "UI/UX Fundamentals": FiAward,
+    "RecyclerView": FiCode,
+    "Static Data": FiCode,
+    "MVC": FiAward,
+    "Blade Templating": FiCode,
+    "CRUD Operations": FiCode,
+    "Default": FiAward 
 };
+// -------------------------------------------------------------------
 
 export function ProjectModal({ project, onClose }: { project: Project; onClose: () => void; }) {
     const [fullscreen, setFullscreen] = useState(false);
@@ -43,12 +82,21 @@ export function ProjectModal({ project, onClose }: { project: Project; onClose: 
             
             {/* Details & Tech Stack */}
             <div className="grid md:grid-cols-2 gap-4">
-                <div className="bg-secondary-50 dark:bg-secondary-800 p-4 rounded-lg">
+                <div className="bg-secondary-50 dark:bg-secondary-900 p-4 rounded-lg">
                     <h4 className="flex items-center gap-2 font-semibold text-secondary-700 dark:text-secondary-200"><FiInfo/>Details</h4>
-                    <div className="mt-2 space-y-2 text-sm">
-                        <p><strong className="text-secondary-500 dark:text-secondary-400 w-20 inline-block">Role:</strong> {project.role}</p>
-                        <p><strong className="text-secondary-500 dark:text-secondary-400 w-20 inline-block">Period:</strong> {project.period}</p>
-                        <p><strong className="text-secondary-500 dark:text-secondary-400 w-20 inline-block">Updated:</strong> {project.lastUpdated}</p>
+                    <div className="mt-3 space-y-3 text-sm">
+                        <div className="flex items-center gap-2">
+                        <FiUser className="h-4 w-4 text-secondary-500 flex-shrink-0"/>
+                        <p><strong className="font-semibold">Role:</strong> {project.role}</p>
+                        </div>
+                        <div className="flex items-center gap-2">
+                        <FiCalendar className="h-4 w-4 text-secondary-500 flex-shrink-0"/>
+                        <p><strong className="font-semibold">Period:</strong> {project.period}</p>
+                        </div>
+                        <div className="flex items-center gap-2">
+                        <FiClock className="h-4 w-4 text-secondary-500 flex-shrink-0"/>
+                        <p><strong className="font-semibold">Updated:</strong> {project.lastUpdated}</p>
+                        </div>
                     </div>
                 </div>
                 <div className="bg-secondary-50 dark:bg-secondary-800 p-4 rounded-lg">
