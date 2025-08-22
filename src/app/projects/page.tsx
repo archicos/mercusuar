@@ -38,7 +38,7 @@ export default function ProjectsPage() {
             <div>
                 <h1 className="text-3xl font-bold text-secondary-700 dark:text-secondary-100">Projects</h1>
                 <p className="mt-2 text-secondary-600 dark:text-secondary-400">
-                A collection of projects I've worked on, from mobile apps to backend systems.
+                A collection of projects I&apos;ve worked on, from mobile apps to backend systems.
                 </p>
                 <div className="mt-2 flex items-center gap-2 text-sm text-secondary-500 dark:text-secondary-500">
                 <FiClock size={14} />

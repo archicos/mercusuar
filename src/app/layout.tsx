@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Archico's Personal Playground",
+  title: "Archico&apos;s Personal Playground",
   description: "Personal portfolio of Archico Sembiring",
   icons: [{ rel: "icon", url: "/icon.png" }], 
 };
