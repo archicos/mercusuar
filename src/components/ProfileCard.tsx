@@ -46,10 +46,10 @@ export function ProfileCard({ profile }: { profile: Profile }) {
             <a 
             href={profile.cvPath} 
             download 
-            className="mt-5 inline-flex items-center gap-2 w-full justify-center px-4 py-2 rounded-full bg-primary-600 text-white font-semibold hover:bg-primary-700 transition-colors"
+            className="mt-5 inline-flex items-center gap-2 w-full justify-center px-4 py-2 rounded-full bg-primary-600 text-white font-semibold hover:bg-primary-700 hover:text-white transition-colors"
             >
             <FiDownload size={16} />
-            Download CV
+            Download Resume
             </a>
 
             <div className="w-full border-t border-secondary-200 dark:border-secondary-700 my-5" />

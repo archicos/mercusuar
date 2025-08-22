@@ -6,6 +6,7 @@ import { ExperienceSection } from "@/components/ExperienceSection";
 import { EducationSection } from "@/components/EducationSection";
 import { TechStackSection } from "@/components/TechStackSection";
 import { CompetenciesSection } from "@/components/CompetenciesSection";
+import { BeyondTheCodeSection } from "@/components/BeyondTheCodeSection";
 
 export default function HomePage() {
   return (
@@ -23,6 +24,7 @@ export default function HomePage() {
           <EducationSection educations={profile.education} />
           <TechStackSection stacks={profile.techStacks} />
           <CompetenciesSection competencies={profile.competencies} />
+          <BeyondTheCodeSection facts={profile.beyondTheCode} />
         </div>
       </div>
     </main>

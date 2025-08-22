@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Archico",
+  title: "Archico's Personal Playground",
   description: "Personal portfolio of Archico Sembiring",
-  icons: [{ rel: "icon", url: "/favicon.ico" }], 
+  icons: [{ rel: "icon", url: "/icon.png" }], 
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

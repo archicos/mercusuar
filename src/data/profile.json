@@ -2,11 +2,11 @@
     "name": "Archico Darius Simpar Sembiring",
     "title": "Software Engineer | Bachelor of Informatics",
     "summary": "A final-year Informatics student with a deep interest in Software Engineering. Experienced in building full-stack applications and currently exploring machine learning.",
-    "cvPath": "/path/to/your/resume.pdf",
+    "cvPath": "/documents/Archico Darius Simpar Sembiring - Resume.pdf",
     "jumbotronSlides": [
-        { "image": "/images/home/jumbotron1.jpg", "caption": "Current Work: Levelearn" },
-        { "image": "/images/home/jumbotron2.png", "caption": "Recent Work: Bachelors of Informatics" },
-        { "image": "/images/home/jumbotron3.jpg", "caption": "Exploring the world through photography." }
+        { "image": "/images/home/jumbotron3.jpg", "caption": "Current Work: Bachelors of Informatics" },
+        { "image": "/images/home/jumbotron1.jpg", "caption": "Recent Work: Levelearn" },
+        { "image": "/images/home/jumbotron2.jpg", "caption": "Exploring for new opportunities" }
     ],
     "location": "Jakarta, Indonesia",
     "contact": {
@@ -145,6 +145,44 @@
         { "name": "Public Speaking", "icon": "FiMic" },
         { "name": "Leadership", "icon": "FiUsers" },
         { "name": "Team Collaboration", "icon": "FiUsers" }
+    ],
+    "beyondTheCode": [
+        {
+        "title": "ENTJ-T",
+        "description": "My personality MBTI type is Commander, characterized by strategic thinking and a relentless drive to achieve goals.",
+        "icon": "FiCompass",
+        "duration": ""
+        },
+        {
+        "title": "Black Belt Karate",
+        "description": "Achieved a black belt in Tako Indonesia Karate, a discipline that taught me perseverance and focus.",
+        "icon": "FiShield",
+        "duration": "Since 2012"
+        },
+        {
+        "title": "Toxic Productivity",
+        "description": "Always striving for efficiency, though I'm learning to balance my productive drive with mindful rest.",
+        "icon": "FiZap",
+        "duration": "Since 2020"
+        },
+        {
+        "title": "Like Sing, Bad Voice",
+        "description": "I love to sing anytime, anywhere, though my enthusiasm often outweighs my vocal talent.",
+        "icon": "FiMusic",
+        "duration": "Since 2018"
+        },
+        {
+        "title": "Stand-up Comedian",
+        "description": "Took the stage for a stand-up comedy performance back in junior high, a fun experience in public speaking.",
+        "icon": "FiMic",
+        "duration": "2016"
+        },
+        {
+        "title": "Eclectic Music Taste",
+        "description": "My playlists span from Groovy, Country, Jazz to timeless classics by legends like Panbers and Tom Jones.",
+        "icon": "FiHeadphones",
+        "duration": "Since 2018"
+        }
     ],
     "socials": [
         {
