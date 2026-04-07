@@ -1,12 +1,12 @@
 {
     "name": "Archico Darius Simpar Sembiring",
-    "title": "Bachelor of Computer Science (B.Cs)",
+    "title": "IT Consultant",
     "summary": "An Informatics/Computer Science freshgraduate with a deep interest in Software Engineering. Experienced in building full-stack applications and currently exploring new opportunities.",
     "cvPath": "/documents/Archico Darius Simpar Sembiring - Resume.pdf",
     "jumbotronSlides": [
-        { "image": "/images/home/jumbotron3.jpg", "caption": "Current Work: Bachelors of Informatics" },
-        { "image": "/images/home/jumbotron1.jpg", "caption": "Recent Work: Levelearn" },
-        { "image": "/images/home/jumbotron2.jpg", "caption": "Exploring for new opportunities" }
+        { "image": "/images/home/reinventors.png", "caption": "Reinventors: Let there be Change" },
+        { "image": "/images/home/octo.jpg", "caption": "Digital Banking with OCTO by CIMB" },
+        { "image": "/images/home/levelearn.png", "caption": "Recent Work: Levelearn" }
     ],
     "location": "Jakarta, Indonesia",
     "contact": {
@@ -17,11 +17,12 @@
         {
         "degree": "Bachelor of Informatics (B.Cs.)",
         "logo": "/images/home/logo-itdel.png",
-        "institution": "Institut Teknologi Del",
+        "institution": "Del Institute of Technology",
         "period": "August 2021 — June 2025",
         "details": [
             "GPA: 3.82/4.00 (155 credits)",
-            "Top 3 Most Outstanding Student of Institut Teknologi Del",
+            "2nd Best Graduate of 2025",
+            "Top 3 Most Outstanding Student of 2023",
             "Awardee of High Academic Performance Scholarship",
             "Lecturer Academic Assistant for Basic Programming"
         ],
@@ -42,6 +43,33 @@
         }
     ],
     "experience": [
+        {
+            "role": "IT Consultant",
+            "company": "Consulting",
+            "logo": "",
+            "period": "March 2026 — Present",
+            "location": "Southeast Asia",
+            "locationLink": "",
+            "details": [
+            ],
+            "skills": [],
+            "link": ""
+        },
+        {
+            "role": "IT Developer",
+            "company": "CIMB Niaga",
+            "logo": "/images/home/logo-cimb.png",
+            "period": "November 2025 — March 2026",
+            "location": "South Tangerang, Indonesia",
+            "locationLink": "https://maps.app.goo.gl/J9sYqB8CGr6ycZ1i7",
+            "details": [
+                "Digital Service Engagement (DSE)",
+                "Customer Engagement Development",
+                "Contact Center Department"
+            ],
+            "skills": ["Software Engineering", "Java", "Spring", "Tomcat", "Genesys"],
+            "link": ""
+        },
         {
             "role": "Software Engineer Intern",
             "company": "Telkomsel",
